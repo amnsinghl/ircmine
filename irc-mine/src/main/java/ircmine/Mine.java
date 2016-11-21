@@ -10,23 +10,39 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 import java.util.Random;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Consumer;
 
 public class Mine {
     private final MainApp _app;
     private final Client _client;
     public Consumer<Void> _end;
-//    private List<String> _channels = new ArrayList<>();
-    public Random  random = new Random();
+    //    private List<String> _channels = new ArrayList<>();
+    public Random random = new Random();
 
     public Mine(MainApp app, Client client) {
         _app = app;
         _client = client;
     }
 
+    public void mineChannels() throws IOException {
+        BufferedWriter chFile = getFile("channels");
+        _app.isReady = aVoid -> {
+            _app.execute(new Command("LIST", data -> {
+                String[] split = data.split(_client.getNick());
+                if (split.length >= 2) {
+                    if (split[1].trim().startsWith("#")) {
+                        String[] info = split[1].trim().split(" ", 3);
+                        writeToFile(chFile, info[0] + "," + info[1] + "," + info[2]);
+                    }
+                }
+            }, end -> {
+                close(chFile);
+                _end.accept(null);
+            }));
+        };
+    }
+
     public void mine(List<String> channels, int count) throws IOException, InterruptedException {
-//        BufferedWriter chFile = getFile("channels" + count;
         BufferedWriter chmem = getFile("chmem" + count);
         BufferedWriter memDet = getFile("memData" + count);
         _app.isReady = aVoid -> {
@@ -37,7 +53,7 @@ public class Mine {
 //                    } catch (InterruptedException e) {
 //                        e.printStackTrace();
 //                    }
-                    System.out.println("processing channel " + count+ "  " + j);
+                    System.out.println("processing channel " + count + "  " + j);
                     String ch = channels.get(j);
                     _app.executeWait(new Commands.JoinCommand(ch, null, bVoid -> {
                         Channel cha = _client.getChannel(ch).get();
@@ -50,7 +66,7 @@ public class Mine {
                         }
                     }));
                 }
-                System.out.println("finishing up "+ count );
+                System.out.println("finishing up " + count);
                 close(chmem);
                 close(memDet);
                 _end.accept(null);

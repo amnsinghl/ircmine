@@ -29,6 +29,26 @@ public class App {
     }
 
     public static void main(String[] args) throws IOException, InterruptedException {
+//        mineChannels();
+        mineUserData();
+    }
+
+    public static void mineChannels() {
+        String nick = generateName();
+        Client client = Client.builder().nick(nick).serverHost("irc.us.ircnet.net").serverPort(6667).secure(false).build();
+        MainApp app = new MainApp(client);
+        Mine mine = new Mine(app, client);
+        mine._end = aVoid -> {
+            client.shutdown();
+        };
+        try {
+            mine.mineChannels();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void mineUserData() throws IOException, InterruptedException {
         // Calling build() starts connecting.
         List<String> channels = new ArrayList<>();
         BufferedReader br = new BufferedReader(new FileReader("channels"));
@@ -48,7 +68,7 @@ public class App {
                     int random = rand.nextInt(lt.size());
 //                    String nick = lt.get(random).replaceAll("[^a-zA-Z]", "");
                     String nick = generateName();
-                    Client client = Client.builder().nick(nick).serverHost("irc.freenode.net").build();
+                    Client client = Client.builder().nick(nick).serverHost("irc.us.ircnet.net").serverPort(6667).secure(false).build();
                     MainApp app = new MainApp(client);
                     Mine mine = new Mine(app, client);
                     mine._end = aVoid -> {
@@ -61,7 +81,7 @@ public class App {
                         e.printStackTrace();
                     }
                 });
-                if(counter >= 110) {
+                if(counter > 40 && counter <= 60) {
                     pp.threads.add(thread);
                 }
             }
@@ -69,7 +89,7 @@ public class App {
             channels.add(split[0]);
             line = br.readLine();
         }
-        for(int ix =0;ix<20;ix++) {
+        for(int ix =0;ix<4;ix++) {
             pp.execNext();
         }
     }
