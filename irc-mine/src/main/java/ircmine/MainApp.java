@@ -26,7 +26,7 @@ public class MainApp {
         _client.setInputListener(s -> {
 //            new Thread(() -> {
                 System.out.println("inp " +  s);
-            if(s.contains("End of MOTD command")) {
+            if(s.contains("End of /MOTD command")) {
                 isReady.accept(null);
             }
             synchronized (_lock) {

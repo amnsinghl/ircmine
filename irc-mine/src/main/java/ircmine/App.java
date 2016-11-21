@@ -29,13 +29,20 @@ public class App {
     }
 
     public static void main(String[] args) throws IOException, InterruptedException {
-//        mineChannels();
-        mineUserData();
+        mineChannels();
+//        mineUserData();
+    }
+
+    private static Client getClient()
+    {
+        String nick = generateName();
+        //        Client client = Client.builder().nick(nick).serverHost("irc.us.ircnet.net").serverPort(6667).secure(false).build();
+        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
+        return client;
     }
 
     public static void mineChannels() {
-        String nick = generateName();
-        Client client = Client.builder().nick(nick).serverHost("irc.us.ircnet.net").serverPort(6667).secure(false).build();
+        Client client = getClient();
         MainApp app = new MainApp(client);
         Mine mine = new Mine(app, client);
         mine._end = aVoid -> {
@@ -59,7 +66,7 @@ public class App {
         String line = br.readLine();
         int counter = 0;
         while (line != null) {
-            if (channels.size() == 100) {
+            if (channels.size() == 40) {
                 counter++;
                 final Integer cnt = counter;
                 List<String> lt = new ArrayList<>(channels);
@@ -68,7 +75,7 @@ public class App {
                     int random = rand.nextInt(lt.size());
 //                    String nick = lt.get(random).replaceAll("[^a-zA-Z]", "");
                     String nick = generateName();
-                    Client client = Client.builder().nick(nick).serverHost("irc.us.ircnet.net").serverPort(6667).secure(false).build();
+                    Client client = getClient();
                     MainApp app = new MainApp(client);
                     Mine mine = new Mine(app, client);
                     mine._end = aVoid -> {
@@ -81,7 +88,7 @@ public class App {
                         e.printStackTrace();
                     }
                 });
-                if(counter > 40 && counter <= 60) {
+                if(counter >= 0 && counter <= 100) {
                     pp.threads.add(thread);
                 }
             }
@@ -89,7 +96,7 @@ public class App {
             channels.add(split[0]);
             line = br.readLine();
         }
-        for(int ix =0;ix<4;ix++) {
+        for(int ix =0;ix<3;ix++) {
             pp.execNext();
         }
     }
