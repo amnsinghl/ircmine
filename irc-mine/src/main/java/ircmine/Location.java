@@ -1,5 +1,6 @@
 package ircmine;
 
+import com.google.common.util.concurrent.RateLimiter;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;
@@ -8,12 +9,14 @@ import java.io.IOException;
 
 public class Location {
     public static void main(String[] args) throws IOException {
+        RateLimiter rateLimiter = RateLimiter.create(140);
         BufferedWriter memberLocation = FileHelper.getFileW("memberLocation");
         BufferedReader memberData = FileHelper.getFileR("memberData");
         FileHelper.writeToFile(memberLocation, "nickName", "countryCode", "region",
                 "country", "regionName", "city", "lat", "lon", "zip");
         int i=0;
         for (String line = memberData.readLine(); line != null; line = memberData.readLine()) {
+            rateLimiter.acquire();
             System.out.println("processing " + i++);
             String[] split = line.split(",");
             String member = split[0];
@@ -40,4 +43,5 @@ public class Location {
         FileHelper.close(memberLocation);
         FileHelper.close(memberData);
     }
+
 }
