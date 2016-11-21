@@ -19,7 +19,7 @@ public class App {
     public synchronized void execNext() {
         System.out.println("executing ");
         try {
-            Thread.sleep(20000);
+            Thread.sleep(30000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -88,7 +88,7 @@ public class App {
                         e.printStackTrace();
                     }
                 });
-                if(counter >= 0 && counter <= 100) {
+                if(counter >= 0 && counter <= 10000) {
                     pp.threads.add(thread);
                 }
             }
@@ -111,7 +111,7 @@ public class App {
         System.out.println("str  " +s);
         JSONObject obj = new JSONObject(s);
         JSONObject name = obj.getJSONArray("results").getJSONObject(0).getJSONObject("name");
-        String nam = name.getString("first");
+        String nam = name.getString("first") + name.getString("last");
         return nam.replaceAll("[^a-zA-Z]", "");
     }
 
