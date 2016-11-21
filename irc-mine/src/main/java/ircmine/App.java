@@ -19,7 +19,7 @@ public class App {
     public synchronized void execNext() {
         System.out.println("executing ");
         try {
-            Thread.sleep(10000);
+            Thread.sleep(20000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -29,8 +29,8 @@ public class App {
     }
 
     public static void main(String[] args) throws IOException, InterruptedException {
-        mineChannels();
-//        mineUserData();
+//        mineChannels();
+        mineUserData();
     }
 
     private static Client getClient()
@@ -66,7 +66,7 @@ public class App {
         String line = br.readLine();
         int counter = 0;
         while (line != null) {
-            if (channels.size() == 40) {
+            if (channels.size() == 50) {
                 counter++;
                 final Integer cnt = counter;
                 List<String> lt = new ArrayList<>(channels);
@@ -96,7 +96,7 @@ public class App {
             channels.add(split[0]);
             line = br.readLine();
         }
-        for(int ix =0;ix<3;ix++) {
+        for(int ix =0;ix<20;ix++) {
             pp.execNext();
         }
     }
