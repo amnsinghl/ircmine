@@ -27,8 +27,8 @@ public class Mine {
 
     public void mine(List<String> channels, int count) throws IOException, InterruptedException {
 //        BufferedWriter chFile = getFile("channels" + count;
-//        BufferedWriter chmem = getFile("chmem" + count);
-//        BufferedWriter memDet = getFile("memData" + count);
+        BufferedWriter chmem = getFile("chmem" + count);
+        BufferedWriter memDet = getFile("memData" + count);
         _app.isReady = aVoid -> {
             new Thread(() -> {
                 for (int j = 0; j < channels.size(); j++) {
@@ -44,15 +44,15 @@ public class Mine {
                         List<User> users = cha.getUsers();
                         for (User u : users) {
                             if (!u.getNick().equals(_client.getNick())) {
-//                                writeToFile(chmem, ch + "," + u.getNick());
-//                                writeToFile(memDet, u.getNick() + "," + u.getHost() + "," + u.getRealName().orElse("") + "," + u.getServer().orElse(""));
+                                writeToFile(chmem, ch + "," + u.getNick());
+                                writeToFile(memDet, u.getNick() + "," + u.getHost() + "," + u.getRealName().orElse("") + "," + u.getServer().orElse(""));
                             }
                         }
                     }));
                 }
                 System.out.println("finishing up "+ count );
-//                close(chmem);
-//                close(memDet);
+                close(chmem);
+                close(memDet);
                 _end.accept(null);
             }).start();
         };

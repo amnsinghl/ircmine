@@ -9,12 +9,12 @@ tonyb,119.9.40.82,Tony Breeds,weber.freenode.net
 jschwarz,nat/redhat/x-egbwnkiuehbcekds,John Schwarz,barjavel.freenode.net
 SlickNik,71-212-76-228.tukw.qwest.net,Nikhil,barjavel.freenode.net
 _hanhart,static.141.80.201.138.clients.your-server.de,flieger,barjavel.freenode.net
-greghaynes,irc.greghaynes.cloud,Gregory Haynes,barjavel.freenode.net
 serverascode,gateway/web/irccloud.com/x-sivsdwiswnhrzhzm,Curtis,tepper.freenode.net
+greghaynes,2604:e100:1:0:f816:3eff:fef3:17ae,Gregory Haynes,niven.freenode.net
 zhiyan,gateway/web/irccloud.com/x-uxxlfdzreyxglvbq,Zhi Yan Liu,adams.freenode.net
 mugsie,unaffiliated/mugsie,mugsie,tepper.freenode.net
 Madkiss,madkiss.org,Martin Loschwitz,leguin.freenode.net
-hogepodge,c-24-20-238-120.hsd1.or.comcast.net,Chris Hoge,barjavel.freenode.net
+hogepodge,c-24-20-238-120.hsd1.or.comcast.net,Chris Hoge,sinisalo.freenode.net
 ctracey,gateway/web/irccloud.com/x-nnplevrncwvzeqbf,Craig Tracey,wilhelm.freenode.net
 ChanServ,services.,Channel Services,services.
 haplo37_,192.207.60.121,haplo37,wilhelm.freenode.net
@@ -25,21 +25,21 @@ amit213,gateway/web/irccloud.com/x-rylpuchcbubvbhib,amit213,adams.freenode.net
 dougshelley66,ec2-54-236-114-14.compute-1.amazonaws.com,Doug Shelley,niven.freenode.net
 lifeless,122-57-100-209.jetstream.xtra.co.nz,Robert Collins,adams.freenode.net
 stevemar,e4.fd.7a9f.ip4.static.sl-reverse.com,Got ZNC?,karatkievich.freenode.net
-amrith,ec2-184-72-250-112.compute-1.amazonaws.com,Amrith Kumar,orwell.freenode.net
 cp16net_,168.61.147.179,Craig Vyvial,wilhelm.freenode.net
 dkehn_,2603:300b:506:5f00:69f8:2c13:41e4:87e6,Don Kehn,karatkievich.freenode.net
+amrith,ec2-184-72-250-112.compute-1.amazonaws.com,Amrith Kumar,wilhelm.freenode.net
 EmilienM,unaffiliated/emilienm,Emilien Macchi,wolfe.freenode.net
 openstackstatus,eavesdrop.openstack.org,openstackstatus,tepper.freenode.net
 kfox1111,leary.csoft.net,Unknown,verne.freenode.net
 mpotdar,172.99.106.124,milan potdar,orwell.freenode.net
-arist,inet-hqmc06-o.oracle.com,purple,weber.freenode.net
+arist,inet-hqmc06-o.oracle.com,purple,leguin.freenode.net
 bapalm,96-42-248-149.dhcp.roch.mn.charter.com,se_brandon,hitchcock.freenode.net
 openstack,openstack/openstack,openstack,tepper.freenode.net
 rpittau,80.239.168.84,realname,wolfe.freenode.net
 openstackgerrit,review.openstack.org,openstackgerrit,card.freenode.net
 peterstac,ec2-54-236-114-14.compute-1.amazonaws.com,Peter Stachowski,niven.freenode.net
-gouthamr,122.172.58.8,Goutham Ravi,wilhelm.freenode.net
 ildikov,gateway/web/irccloud.com/x-nyugjoyyhlzxymho,Ildiko Vancsa,wilhelm.freenode.net
+pmalik,ec2-54-236-114-14.compute-1.amazonaws.com,Petr Malik,wilhelm.freenode.net
 dalees,btn-gw.catalyst-eu.net,Dale,rajaniemi.freenode.net
 dmellado,nat/redhat/x-chhbmhucaiwfeevi,dmellado,barjavel.freenode.net
 logan-,irc.protiumit.com,logan,karatkievich.freenode.net
@@ -48,8 +48,8 @@ dloi,ec2-54-236-114-14.compute-1.amazonaws.com,Duk Loi,rajaniemi.freenode.net
 zacksh,2001:4800:7812:514:e0c8:953e:ff04:f7da,zack,adams.freenode.net
 hoonetorg,77.119.226.254.static.drei.at,hoonetorg,hitchcock.freenode.net
 nikhil,gateway/web/irccloud.com/x-isdrethpnwykxrcs,Nikhil Komawar,adams.freenode.net
-pmalik_,ec2-54-236-114-14.compute-1.amazonaws.com,Petr Malik,niven.freenode.net
 krugg,ec2-54-236-114-14.compute-1.amazonaws.com,Ken Rugg,wolfe.freenode.net
+david-lyle,host-67-217-8-253.beyondbb.com,David Lyle,rajaniemi.freenode.net
 aliadil,104.131.10.56,deploy,niven.freenode.net
 laurelm,ec2-54-236-114-14.compute-1.amazonaws.com,Laurel Michaels,verne.freenode.net
 flaper87,unaffiliated/flaper87,Flavio Percoco,verne.freenode.net
@@ -67,6 +67,1608 @@ zigo,gplhost-3-pt.tunnel.tserv18.fra1.ipv6.he.net,Thomas Goirand,,,,rajaniemi.fr
 v12aml,bnc.v12aml.ru,Denis,weber.freenode.net
 agarner,104.236.74.172,aleph1,niven.freenode.net
 vgnbkr,ec2-54-236-114-14.compute-1.amazonaws.com,Morgan Jones,rajaniemi.freenode.net
-harlowja,64.202.160.76,Joshua Harlow,niven.freenode.net
 mmasaki,153-149-24-82.compute.jp-e1.cloudn-service.com,Masaki Matsushita,wilhelm.freenode.net
 toabctl,unaffiliated/toabctl,Tom,adams.freenode.net
+SotK,185.98.148.236,Adam Coldrick,hitchcock.freenode.net
+dabukalam,unaffiliated/dabukalam,Danny,card.freenode.net
+gary_perkins,185.98.148.142,Gary Perkins,karatkievich.freenode.net
+JarJarBinks,212.83.160.43,Supybot 0.83.4.1+limnoria 2015.12.12,asimov.freenode.net
+ChanServ,services.,Channel Services,services.
+mayui,163.172.151.191,cat,leguin.freenode.net
+YukiN,185.139.3.52,Yuki Nagato,hitchcock.freenode.net
+Tsutsukakushi,163.172.151.191,Yui Hirasawa,leguin.freenode.net
+yosafbridge,68.ip-149-56-14.net,yosafbridge,orwell.freenode.net
+nicolasbadia,hue38-1-78-209-78-115.fbx.proxad.net,Nicolas BADIA,leguin.freenode.net
+mauritslamers,panagronewton.xs4all.nl,Maurits Lamers,wolfe.freenode.net
+sproutbot`,2001:981:f2f1:1:1e98:ecff:fe0f:54a0,Supybot 0.83.4.1,karatkievich.freenode.net
+tris,72.52.96.202,meat popsicle,niven.freenode.net
+DylanJ,unaffiliated/dylanj,Dylan Johnston,niven.freenode.net
+rhinosic,104.236.93.224,rhinosic,weber.freenode.net
+ckrailo,gateway/web/irccloud.com/x-syoydbaymesoyfyj,Krailo,sinisalo.freenode.net
+charliesome,112.239.224.49.dyn.cust.vf.net.nz,charliesome,niven.freenode.net
+epitron,unaffiliated/epitron,epitron,weber.freenode.net
+oddmunds,t.oddmundo.com,oddmunds,hitchcock.freenode.net
+Guest27259,2600:3c03::f03c:91ff:fedf:d583,Emily,wolfe.freenode.net
+kyrylo,subtle/user/kyrylo,Kyrylo Silin,hitchcock.freenode.net
+havenwood,ruby/staff/havenwood,Shannon,barjavel.freenode.net
+halorgium,ceramic.spork.in,halorgium,wilhelm.freenode.net
+doppo,2604:180::e0fc:a07f,doppo,karatkievich.freenode.net
+baweaver,ruby/staff/baweaver,Brandon Weaver,tepper.freenode.net
+Birdbones,gateway/web/irccloud.com/x-kvdaiukrmbnqgjgt,Duncan Beevers,adams.freenode.net
+Xtopherus_,ec2-54-167-196-243.compute-1.amazonaws.com,Xtopherus,card.freenode.net
+okdas,unaffiliated/okdas,okDas,asimov.freenode.net
+eval-in________,2604:a880:0:1010::2b:3001,cinch,karatkievich.freenode.net
+Rennex,giraf.fi,Renne Nissinen,wolfe.freenode.net
+pookie,unaffiliated/epitron,Pookie D. Bot,card.freenode.net
+dellavg,2a03:b0c0:3:d0::7:400f,Gianluca,adams.freenode.net
+existensil,ip72-196-8-201.om.om.cox.net,carl,niven.freenode.net
+jolamb,nat/redhat/x-kllmmysaiprlguvj,dobbymoodge,card.freenode.net
+banisterfiend,ruby/staff/banisterfiend,Textual User,karatkievich.freenode.net
+Beberg,c-76-102-102-189.hsd1.ca.comcast.net,NULL,leguin.freenode.net
+[NC],rv1.sabius.net,New Now Know How,card.freenode.net
+BurtyB,knott.8086.net,Chris Burton,wilhelm.freenode.net
+ChanServ,services.,Channel Services,services.
+miono,irc.lagga.se,miono,barjavel.freenode.net
+Cadero,46.16.233.173,Cadero,card.freenode.net
+rich-,unaffiliated/rich-,GOD,asimov.freenode.net
+ChanServ,services.,Channel Services,services.
+Monolith|,unaffiliated/monolith/x-2615728,monolith,sinisalo.freenode.net
+Cadero_,46.16.233.173,Cadero,card.freenode.net
+Linda^,gateway/shell/blinkenshell.org/x-dsvekdlrnnxhpkjk,lag,card.freenode.net
+limbo,skal.qqwe.net,jonas,leguin.freenode.net
+Nirtal,orb.xaz.se,Nirtal,hitchcock.freenode.net
+lcastell,192.55.54.43,Daniel Castellanos,orwell.freenode.net
+vgadiraj,172.99.106.124,Varun Gadiraju,rajaniemi.freenode.net
+castulo,192.55.54.43,Castulo J. Martinez,adams.freenode.net
+ntpttr,174.127.216.34,Nate Potter,asimov.freenode.net
+odyssey4me,2001:4802:7800:1:be76:4eff:fe20:f541,Jesse P,wilhelm.freenode.net
+johnthetubaguy,2a00:1a48:7807:102:580a:904d:ff08:44e7,John Garbutt,sinisalo.freenode.net
+aunnam,172.99.106.124,Anusha Unnam,wolfe.freenode.net
+tonyb,119.9.40.82,Tony Breeds,weber.freenode.net
+johnsom,gateway/web/irccloud.com/x-mxsfhpbjchcrlhse,Michael Johnson,adams.freenode.net
+bgmccollum,2001:4801:7817:72:7276:c634:ff10:3b71,Byron McCollum,karatkievich.freenode.net
+shasha_t_,172.99.106.124,Shashank Tavildar,wolfe.freenode.net
+asingh_,gateway/web/irccloud.com/x-qbjlgtdrlsxdcagv,Aradhana Singh,wilhelm.freenode.net
+sshank,172.99.106.53,Shashank Kumar Shankar,hitchcock.freenode.net
+mhayden,fedora/pdpc.active.rackerhacker,mhayden,wilhelm.freenode.net
+unrahul,gateway/web/irccloud.com/x-yoqwrwwvtzkflqzm,Rahul,adams.freenode.net
+hogepodge,c-24-20-238-120.hsd1.or.comcast.net,Chris Hoge,sinisalo.freenode.net
+irtermite,irc.cloudnull.io,Dale Bracey,wolfe.freenode.net
+dasanind_,gateway/web/irccloud.com/x-hlhrswbjlxozirie,Anindita,niven.freenode.net
+sigmavirus,unaffiliated/sigmavirus24,Ian,hitchcock.freenode.net
+madorn,2001:4801:7825:103:8d23:c583:ff11:35c1,madorn,adams.freenode.net
+jhesketh,2401:1801:7801:103:be76:4eff:fe18:1053,Joshua Hesketh,roddenberry.freenode.net
+xek,134.191.220.71,Grzegorz Grasza,wilhelm.freenode.net
+izaakk,gateway/web/irccloud.com/x-xqznxydhunlxfurw,Hector Gonzalez,adams.freenode.net
+sgundur,172.99.106.253,shashi,orwell.freenode.net
+nadeem,192.237.188.63,Nadeem,asimov.freenode.net
+chris_hultin|AWA,2001:4800:7817:104:be76:4eff:fe04:3f3d,Christopher Hultin (chris.hultin@rackspace.com),adams.freenode.net
+michaelxin,207.97.214.72,michaelxin,adams.freenode.net
+blogan,166.78.242.100,Brandon Logan,orwell.freenode.net
+vinaypotluri,172.99.106.253,vinay,verne.freenode.net
+openstack,openstack/openstack,openstack,tepper.freenode.net
+dragondm,2001:4802:7800:191:a1fb:1054:ff00:550,Monsyne Dragon,wolfe.freenode.net
+mmotiani,172.99.106.124,Mohit Motiani,wolfe.freenode.net
+redrobot,104.130.30.98,Douglas Mendizábal,adams.freenode.net
+dasanind,172.99.106.124,Anindita Das,card.freenode.net
+hughsaunders,23.253.100.31,Hugh Saunders,asimov.freenode.net
+andreaf,ec2-54-229-192-115.eu-west-1.compute.amazonaws.com,Andrea Frittoli,rajaniemi.freenode.net
+karthikp,172.99.106.253,Karthik Prabhu Vinod,weber.freenode.net
+ediardo,gateway/web/irccloud.com/x-hmqforzzkrvpiepi,Eddie Ramirez,adams.freenode.net
+jlvill-travel,104.131.128.135,John L. Villalovos,asimov.freenode.net
+palendae,2001:4802:7800:2:be76:4eff:fe20:a6e2,Nolan Brubaker,karatkievich.freenode.net
+mattoliverau,2401:1801:7800:101:be76:4eff:fe18:2d41,Matthew Oliver,karatkievich.freenode.net
+di1,2602:306:8bc7:4c50:7c9f:b4cf:3c06:ec35,purple,karatkievich.freenode.net
+vjmorale,172.99.106.124,Victor Morales,niven.freenode.net
+joanna,172.99.106.124,Joanna Taryma,wolfe.freenode.net
+dharinic,172.99.106.124,dharinic,asimov.freenode.net
+shananigans,198.61.195.248,Shannon Mitchell,wolfe.freenode.net
+sulo,2a00:1a48:7807:102:be76:4eff:fe08:47ce,Sulochan Acharya,niven.freenode.net
+mariojv,162.242.210.200,mariojv,orwell.freenode.net
+Tamayo,gateway/web/irccloud.com/x-ubmahqfzthdjhfcs,Cinco Tamayo,wolfe.freenode.net
+kencjohnston,192.237.188.108,Kenny Johnston,hitchcock.freenode.net
+jimbaker,python/psf/jimbaker,Jim Baker,niven.freenode.net
+rromans,unaffiliated/rrrobbb,Robb Romans,asimov.freenode.net
+raj_singh,172.99.106.124,Sarafraj Singh,asimov.freenode.net
+david-lyle,host-67-217-8-253.beyondbb.com,David Lyle,rajaniemi.freenode.net
+nonameentername,23.253.162.139,nonameentername,asimov.freenode.net
+JRobinson__,124-170-80-81.dyn.iinet.net.au,Joseph Robinson,tepper.freenode.net
+luzC,192.55.54.43,Luz Cazares,adams.freenode.net
+turvey,gateway/web/irccloud.com/x-rkwjpnhkybxxqtxx,Mike Turvey,wolfe.freenode.net
+dstanek,2001:4801:7824:104:ff4c:ee8d:ff11:72f0,david stanek,adams.freenode.net
+woodburn,172.99.106.83,woodburn,niven.freenode.net
+neillc,2401:1801:7800:101:be76:4eff:fe18:515,Neill Cox,,,,karatkievich.freenode.net
+zz_pwnall1337,2001:4800:7817:103:be76:4eff:fe04:d74a,pwnall,wilhelm.freenode.net
+smurke,172.99.106.124,sumanth,wolfe.freenode.net
+dolphm,2001:4802:7801:102:be76:4eff:fe20:e06a,Dolph Mathews,wolfe.freenode.net
+raddaoui,gateway/web/irccloud.com/x-zdetsjwtfauxbxcq,Ala Raddaoui,niven.freenode.net
+h01,2001:4800:7810:512:be76:4eff:fe05:b384,.,karatkievich.freenode.net
+rm_work,Maemo/community/cssu/rm-you,Adam,rajaniemi.freenode.net
+pdardeau,104.236.246.30,paul,rajaniemi.freenode.net
+diltram,2605:6000:6fc0:1d:2139:f214:6dda:3fad,Lubosz Kosnik,niven.freenode.net
+mrhillsman,2001:4800:7817:104:be76:4eff:fe05:5726,Melvin Hillsman,leguin.freenode.net
+kragniz,nyaa.kragniz.eu,kragniz,asimov.freenode.net
+jlwhite,192.55.54.43,Joshua L. White,barjavel.freenode.net
+hemanth,162.242.243.204,hemanth,barjavel.freenode.net
+hughhalf,ozlabs.org,Hugh,rajaniemi.freenode.net
+gmmaha,unaffiliated/gmmaha,Ganesh Mahalingam,wolfe.freenode.net
+chrisspencer,gateway/web/irccloud.com/x-cvfzulwazbpxwcbn,Chris,leguin.freenode.net
+r1chardj0n3s,pyglet.org,Richard Jones,asimov.freenode.net
+mgkwill,gateway/web/irccloud.com/x-atpzoghayopzoikb,Marcus Williams,adams.freenode.net
+dankolbrs,2605:6000:1a0b:8038:33f2:6dc4:3658:32c8,realname,karatkievich.freenode.net
+antwash,192.55.54.43,Anthony Washington,wolfe.freenode.net
+iphutch,gateway/web/irccloud.com/x-qxirkcdykgwuazhs,ianeta hutchinson,wolfe.freenode.net
+pumaranikar,172.99.106.124,Pushkar Umaranikar,wolfe.freenode.net
+cloudnull,irc.cloudnull.io,Kevin,niven.freenode.net
+homerp,2001:4801:7821:77:be76:4eff:fe10:aa8c,Homer Pena,karatkievich.freenode.net
+ChanServ,services.,Channel Services,services.
+jvgrant_,192.55.54.44,realname,sinisalo.freenode.net
+sindhu,gateway/web/irccloud.com/x-lcnytihyyitxldlt,Sindhu,wilhelm.freenode.net
+JayF,no-sources/jasonf,jay,karatkievich.freenode.net
+jlopezgu,172.99.106.124,Juan Pablo Lopez Gutierrez,niven.freenode.net
+_iphutch,172.99.106.124,ianeta hutchinson,wolfe.freenode.net
+rderose,172.99.106.47,Ron De Rose,orwell.freenode.net
+karthikp_,172.99.106.158,Karthik Prabhu,card.freenode.net
+ankur-gupta-f,50.56.228.1,purple,verne.freenode.net
+chrisspe-,172.99.106.124,Chris Spencer,orwell.freenode.net
+jotr,ec2-52-36-185-27.us-west-2.compute.amazonaws.com,Joshua Trivette,wolfe.freenode.net
+stevelle,2001:4802:7800:1:be76:4eff:fe20:c2ea,Steve Lewis,karatkievich.freenode.net
+mpotdar,172.99.106.124,milan potdar,orwell.freenode.net
+jcook,162.209.4.118,Jesse J. Cook,weber.freenode.net
+cebreidian,45.63.76.107,Don't Panic,rajaniemi.freenode.net
+dasm,ec2-52-28-98-22.eu-central-1.compute.amazonaws.com,Dariusz Smigiel,weber.freenode.net
+loquacities,119.9.40.82,Lana Brindley,niven.freenode.net
+Mudpuppy,cpe-68-206-245-204.satx.res.rr.com,Dennis DeMarco,rajaniemi.freenode.net
+leifz,2001:4801:7819:74:1dc9:203f:ff10:d299,Christopher Lefelhocz,karatkievich.freenode.net
+andymccr,2a00:1a48:7807:102:be76:4eff:fe08:250c,AndyMc,niven.freenode.net
+bluex,172.99.106.158,Szymon Wroblewski,card.freenode.net
+darrenc,2401:1801:7800:101:be76:4eff:fe18:1a67,Darren Chan,karatkievich.freenode.net
+kvcobb,nat/intel/x-geyqztrsmjilueri,realname,hitchcock.freenode.net
+nikhil,gateway/web/irccloud.com/x-isdrethpnwykxrcs,Nikhil Komawar,adams.freenode.net
+sneti,172.99.106.124,Sujitha Neti,asimov.freenode.net
+saisriki,172.99.106.124,Saisrikiran Mudigonda,card.freenode.net
+spotz_zzz,2001:4800:7810:512:be76:4eff:fe05:32cb,spotz,karatkievich.freenode.net
+lbragstad,104.130.11.250,Lance Bragstad,weber.freenode.net
+macsz,gateway/web/irccloud.com/x-skrntvpiicixmgga,Maciej Szankin,wilhelm.freenode.net
+hockeynut,23.253.109.44,Steve Heyman,verne.freenode.net
+toan,2001:4800:7818:103:32bc:145a:657e:e146,Toan Nguyen,adams.freenode.net
+yarkot,172.99.106.124,Yarko Tymciurak,asimov.freenode.net
+nishpatwa007,172.99.106.124,nishpatwa,adams.freenode.net
+mcarden,2401:1801:7801:101:be76:4eff:fe18:873,Mike Carden,niven.freenode.net
+rosmaita,198.61.227.79,Brian Rosmaita,orwell.freenode.net
+electrocucaracha,gateway/web/irccloud.com/x-tqvdjnmuvsbkxxwm,Victor Morales,wolfe.freenode.net
+jroll,unaffiliated/jroll,jroll,leguin.freenode.net
+agarner,104.236.74.172,aleph1,niven.freenode.net
+alex_xu,192.55.46.39,Alex Xu,wolfe.freenode.net
+llu,gateway/web/irccloud.com/x-igjfnypcbankrjjg,Lianhao Lu,wolfe.freenode.net
+hurricanerix,108.34.154.104.bc.googleusercontent.com,hurricanerix,niven.freenode.net
+cathrich_,2602:306:3398:4a0:bde4:163a:bf43:17af,Catherine Richardson,wilhelm.freenode.net
+lfaraone,wikimedia/LFaraone,Luke Faraone,sinisalo.freenode.net
+ChanServ,services.,Channel Services,services.
+AmandaNP,wikipedia/DeltaQuad,DeltaQuad,orwell.freenode.net
+Phillemann,h1995888.stratoserver.net,phillemann,hitchcock.freenode.net
+Freundlich,h1995888.stratoserver.net,Unknown,tepper.freenode.net
+nille,unaffiliated/nille,nille,card.freenode.net
+ChanServ,services.,Channel Services,services.
+dv__,62-178-118-86.cable.dynamic.surfer.at,dv dwed,weber.freenode.net
+gnarf,unaffiliated/gnarf,Corey Frang,niven.freenode.net
+dara,cloud.gnarf.net,dara,hitchcock.freenode.net
+wesbos_,192.34.58.184,Wes Bos,asimov.freenode.net
+tmberg,unaffiliated/tmberg,tmberg,wolfe.freenode.net
+ImpAbuse,unaffiliated/impabuse,ImpAbuse,asimov.freenode.net
+kwork,unaffiliated/kwork,kwork,rajaniemi.freenode.net
+chexum,ec2-52-28-155-192.eu-central-1.compute.amazonaws.com,086DC2A6D40B9D04,asimov.freenode.net
+henk,leonardo.netwichtig.de,henk,verne.freenode.net
+girobot,unaffiliated/nesthib/bot/girobot,girobot,card.freenode.net
+nesthib,unaffiliated/nesthib,nesthib,barjavel.freenode.net
+ChanServ,services.,Channel Services,services.
+markelite,gateway/shell/panicbnc/x-mvwzqsznmzjauohf,Mark,wolfe.freenode.net
+ChanServ,services.,Channel Services,services.
+Xeek,unaffiliated/xeek,Xeek,adams.freenode.net
+jmis,104.236.254.244,jmis,karatkievich.freenode.net
+zigggggy,unaffiliated/zigggggy,Meeee,sinisalo.freenode.net
+windragon,unaffiliated/alvinhochun,-,wolfe.freenode.net
+Aeriff,2001:1608:10:85::a54c:b483,dwarf,sinisalo.freenode.net
+mattl,gnu/mattl,Matt Lee,rajaniemi.freenode.net
+thomasbonte,gateway/web/irccloud.com/x-trhurbailqwoyuhu,Thomas Bonte,wilhelm.freenode.net
+ChanServ,services.,Channel Services,services.
+dwn,unaffiliated/dwn,car,sinisalo.freenode.net
+rentalcustard,2a01:7e00::f03c:91ff:fedf:7496,Stuart",niven.freenode.net
+harlan,ntp/pmgr/harlan,Harlan Stenn,adams.freenode.net
+ChanServ,services.,Channel Services,services.
+d0d63,eek.dmumford.com,d0d63,wolfe.freenode.net
+skelkey,ows-171-33-86-51.eu-west-2.compute.outscale.com,orion,hitchcock.freenode.net
+mandarine,f.reckl.es,Orange Fruit,asimov.freenode.net
+majinboo,ec2-52-209-86-165.eu-west-1.compute.amazonaws.com,majinboo,weber.freenode.net
+sberube__,gateway/web/irccloud.com/x-cnipgxjlurazerxx,Steven Berube,karatkievich.freenode.net
+gr8liquor,ip68-228-203-230.ph.ph.cox.net,Christopher Hennessy,hitchcock.freenode.net
+DigiDaz,77.240.12.245,Darren Williams,karatkievich.freenode.net
+nysolutions,75.99.2.100,nysolutions,sinisalo.freenode.net
+MrNato_home,115.69.21.99,...,tepper.freenode.net
+Len_,162.244.24.221,Nel-,card.freenode.net
+KOSHrf,fercusoft.com,Ricardo C. Fernández de C.,verne.freenode.net
+zizou,gusl/staff/mchavez,Zizou,card.freenode.net
+ChanServ,services.,Channel Services,services.
+meetingology,ubuntu/bot/meetingology,meetingology,tepper.freenode.net
+Jam666,unaffiliated/jamunix,Juancho Talarga,sinisalo.freenode.net
+HeavyMetal,unaffiliated/heavymetal,HeavyMetal,niven.freenode.net
+Justin417,zncsrv.justingoetz.net,Justin Goetz,adams.freenode.net
+sagerdearia,unaffiliated/necrodearia,realname,wilhelm.freenode.net
+Protagonistics,gateway/web/irccloud.com/x-xgmaagoabpvmlpvu,Meta Mesh COO,wolfe.freenode.net
+tinwood,ec2-52-48-88-242.eu-west-1.compute.amazonaws.com,Alex Kavanagh,adams.freenode.net
+xtort-,fuck.dumbfucks.org,xtort-,card.freenode.net
+Pigeonburger,cable-192.222.228.97.electronicbox.net,Nonya Bizness,orwell.freenode.net
+pztrn,138.201.19.11,Stanislav N.,orwell.freenode.net
+Peng_,unaffiliated/peng,Matt Nordhoff,rajaniemi.freenode.net
+atari-frosch,seewind.atari-frosch.de,Sabine Engelhardt,orwell.freenode.net
+ben_thatmustbeme,2601:196:8603:6b46:475:a645:914a:9aec,Ben Roberts,wilhelm.freenode.net
+DNS,unaffiliated/dns777,DNS777,orwell.freenode.net
+_flow__,star.geekplace.eu,none,leguin.freenode.net
+Anchakor,malco.valachnet.cz,Anchakor,karatkievich.freenode.net
+Elleo,libre.fm/hacker/elleo,Michael Sheldon,wilhelm.freenode.net
+pluma,unaffiliated/pluma,Alan Plum,wolfe.freenode.net
+clacke[m],gateway/shell/matrix.org/x-zfgoyexfyrehpuwc,@clacke:matrix.heldscal.la,niven.freenode.net
+ndsmith,fsf/member/ndsmith,Nathan D. Smith,weber.freenode.net
+Gargron,107.170.49.81,Eugen,card.freenode.net
+ilpianista,kde/developer/scarpino,Andrea Scarpino,adams.freenode.net
+XgF,magi1.paris.fr.node.e43.eu,Owen Shepherd,asimov.freenode.net
+robmyers,gnu/social/robmyers,robcc,adams.freenode.net
+flor,64.97.5.85.dynamic.wline.res.cust.swisscom.ch,Florian,barjavel.freenode.net
+ChanServ,services.,Channel Services,services.
+Erkan_Yilmaz,wikimedia/Erkan-Yilmaz,Erkan Yilmaz,hitchcock.freenode.net
+les,fsf/member/les,Who me?,karatkievich.freenode.net
+n4mu,fsf/member/n4mu,manu,wilhelm.freenode.net
+Satyricon,static-ip-69-64-50-156.inaddr.ip-pool.com,Nemesis Divina,wilhelm.freenode.net
+nee`,pictor.uberspace.de,unknown,barjavel.freenode.net
+johnsu01,fsf/staff/johnsu01,John Sullivan,weber.freenode.net
+brr,xX.berryX.com,Peter Fischer,sinisalo.freenode.net
+xmpp-gnu,der.ttyh.ru,xmpp-gnu,rajaniemi.freenode.net
+StigAtle,219.92-221-233.customer.lyse.net,StigAtle,rajaniemi.freenode.net
+vinzv,fedora/vinzv,vinzv,asimov.freenode.net
+EvilWerezombie,nothing4you.w.tf-w.tf,Richard Schwab,niven.freenode.net
+pskosinski,gateway/shell/mydevil.net/x-pgvvhhsxyfkwvunl,pskosinski.pl,weber.freenode.net
+Peng,unaffiliated/peng,Matt Nordhoff,barjavel.freenode.net
+g2,gateway/shell/yourbnc/x-fmbddiepytagfvte,...,karatkievich.freenode.net
+nnnn20430,lightning.bouncer.ml,nnnn,adams.freenode.net
+doppo,2604:180::e0fc:a07f,doppo,karatkievich.freenode.net
+dansup,ks4000028.ip-198-245-60.net,Dan Sup,weber.freenode.net
+giraffe,gateway/shell/firrre/x-priqdhkweggqsqus,skarn,asimov.freenode.net
+ramsesHD,internetautobahn.de,ramsesHD,weber.freenode.net
+asterismo,179.26.25.118,Santiago Roland,asimov.freenode.net
+AlexanderS,bnc.animux.de,AlexanderS,adams.freenode.net
+soloojos,gateway/tor-sasl/soloojos,realname,zelazny.freenode.net
+Sazius,fsf/member/sazius,Mats Sj�berg,barjavel.freenode.net
+kromonos,bka.li,Kromonos,kornbluth.freenode.net
+heluecht,manitu.pirati.ca,heluecht,sinisalo.freenode.net
+cmhobbs,fsf/member/cmhobbs,cmhobbs,orwell.freenode.net
+Guest1807,ghost.ced117.net,Cedric Heintz,wolfe.freenode.net
+bigbluehat,gateway/web/irccloud.com/x-skewvceaclsgzyxr,BigBlueHat,barjavel.freenode.net
+stalled,unaffiliated/stalled,stalled,rajaniemi.freenode.net
+pistachio,128.199.198.210,pistachio,hitchcock.freenode.net
+jerrykan,whatsit.theintraweb.net,John Kristensen,barjavel.freenode.net
+ssweeny,canonical/oem/ssweeny,Scott Sweeny,wilhelm.freenode.net
+chimo,chromic.org,chimo,verne.freenode.net
+voxpelli,gateway/web/irccloud.com/x-kbhhqxsuvtlmkgiq,Pelle Wessman,barjavel.freenode.net
+amelia_,gateway/web/irccloud.com/x-txvczwruczizcswm,Amelia,adams.freenode.net
+Anchakor_,179.43.156.130,Anchakor,hitchcock.freenode.net
+drymer,unaffiliated/drymer,drymer,karatkievich.freenode.net
+snuffi,masami.heldscal.la,Got ZNC?,karatkievich.freenode.net
+kmicu,176.56.237.191,kmicu,wilhelm.freenode.net
+gregoriosw_vp,176.126.244.125,Gregory Wellington,hitchcock.freenode.net
+aandrew,gromit.mixdown.ca,yes my real name is andrew,wilhelm.freenode.net
+MMN-o,h109-225-72-127.cust.se.alltele.net,Unknown,verne.freenode.net
+mattl,gnu/mattl,Matt Lee,rajaniemi.freenode.net
+shymega,2001:ba8:1f1:f082:216:5eff:fe00:45a,shymega,karatkievich.freenode.net
+bony,swecha/bony,Bhuvan Krishna,barjavel.freenode.net
+lilmike,mtserver.mwtd.net,Michael Taboada,niven.freenode.net
+k0nsl,unaffiliated/k0nsl,k0nsl (i.am@k0nsl.org),rajaniemi.freenode.net
+TheVoxFox,basteles-bastelknecht.bastelfreak.org,TheVoxFox,wolfe.freenode.net
+esmiurium,45.63.76.107,Page Closed,karatkievich.freenode.net
+Abjectio,fsf/member/Abjectio,Abjectio,wilhelm.freenode.net
+lids,unaffiliated/lids,lids,niven.freenode.net
+tonnerkiller,debenny.de,Benjamin Koppe,,none,none,barjavel.freenode.net
+rozzin,2600:3c01::f03c:91ff:fedf:5565,purple,wolfe.freenode.net
+msy,freenode/staff-emeritus/yano,my idle time is a lie,karatkievich.freenode.net
+KyleYankan,hive76/member/KyleYankan,Kyle Y,karatkievich.freenode.net
+Loki,unaffiliated/loki,Quis custodiet ipsos custodes,wolfe.freenode.net
+ToAruShiroiNeko,wikimedia/ToAruShiroiNeko,Electronic Video Agent,rajaniemi.freenode.net
+JonathanD,freenode/staff/jonathand,fish,asimov.freenode.net
+journeymangeek,62-210-108-142.rev.poneytelecom.eu,Got ZNC?,wolfe.freenode.net
+g2,gateway/shell/yourbnc/x-fmbddiepytagfvte,...,karatkievich.freenode.net
+||cw,unaffiliated/cw/x-1182934,chrisw,weber.freenode.net
+flippant,unaffiliated/nyx114,_,rajaniemi.freenode.net
+Alcest,69.64.40.177,Ecailles de lune,leguin.freenode.net
+szagul,keller-server.de,Quassel IRC User,card.freenode.net
+snowkidind,pool-108-18-200-48.washdc.fios.verizon.net,Textual User,hitchcock.freenode.net
+draynium,45.63.76.107,needs coffee,rajaniemi.freenode.net
+joar,fsf/member/jwandborg,Joar Wandborg,wolfe.freenode.net
+tdy,unaffiliated/tdy,tdy,tepper.freenode.net
+mrpackethead,147.200.109.203.static.cust.vf.net.nz,mrpackethead,sinisalo.freenode.net
+cers,geeksbynature.dk,Christian Sonne,weber.freenode.net
+ocharles_,gateway/web/irccloud.com/x-oiwisterqzmqgmyt,Oliver Charles,wilhelm.freenode.net
+kriskropd,unaffiliated/kriskropd,kris,card.freenode.net
+iNs,krowkirobia.mooo.com,ins,rajaniemi.freenode.net
+fultonms,bouncer.cslabs.clarkson.edu,fultonms,wolfe.freenode.net
+archivist,host81-149-189-98.in-addr.btopenworld.com,archivist,wilhelm.freenode.net
+dude3,81-7-15-19.blue.kundencontroller.de,dude,sinisalo.freenode.net
+mcclintic_,gateway/web/freenode/ip.89.204.139.161,x59cc8ba1.dyn.telefonica.de/89.204.139.161,herbert.freenode.net
+jave,h-235-62.a149.priv.bahnhof.se,joakim verona,barjavel.freenode.net
+loglog,ec2-54-146-185-197.compute-1.amazonaws.com,loglog,karatkievich.freenode.net
+tabakhase,unaffiliated/tabakhase,Christian Tabakhase Hackmann,karatkievich.freenode.net
+f8l,dhcp95-108-67-92.eaw.com.pl,f8l,sinisalo.freenode.net
+predkambrij,v22015012619822703.yourvserver.net,developer,verne.freenode.net
+blacklaser,2601:802:8102:7d00:20c:29ff:fe2a:6090,blacklaser,leguin.freenode.net
+Roelke,103.219.22.15,Roel Driessens,hitchcock.freenode.net
+bodie_,unaffiliated/bodie/x-6479885,Bodie Solomon,card.freenode.net
+tanuki,68-200-133-146.res.bhn.net,Benjamin Geiger,rajaniemi.freenode.net
+Sembiance,sandbox.telparia.com,Robert Schultz,adams.freenode.net
+MonsterAbyss,162.243.210.129,MonsterAbyss,tepper.freenode.net
+MjrTurkey,azureus/MjrTom,cpe-173-174-73-30.austin.res.rr.com/173.174.73.30,herbert.freenode.net
+jontxu,unaffiliated/jontxu,jon,niven.freenode.net
+pfn,abort.v6.boom.net,Perry Nguyen,wilhelm.freenode.net
+justanotheruser,unaffiliated/justanotheruser,Justan,adams.freenode.net
+kraucrow,198.211.120.194,Denting Blows,leguin.freenode.net
+minus,mnus.de,m!nus,rajaniemi.freenode.net
+radish,unaffiliated/stryx/x-3871776,radish,orwell.freenode.net
+icecube45,unaffiliated/icecube45,icecube45,card.freenode.net
+itwasntandy,bash.sh,Andrew Mulholland,barjavel.freenode.net
+Triffid_Hunter,unaffiliated/triffid-hunter,http://create3d.com.au,asimov.freenode.net
+trousermonkey,c-73-231-220-25.hsd1.ca.comcast.net,na,weber.freenode.net
+Dracos-Carazza,p5DDFD9AD.dip0.t-ipconnect.de,MatzeB.,hitchcock.freenode.net
+treeherder,64.188.52.101,jane,wolfe.freenode.net
+sandeepkr,103.49.155.114,realname,orwell.freenode.net
+seg,fsf/member/seg,seg,card.freenode.net
+DarthMeo1,hmm.wantstofly.org,Darth Vader,asimov.freenode.net
+orzo_,lasker.childrenofmay.org,ugly red zebra,wolfe.freenode.net
+scorphus,CAcert/User/scorphus,scorphus,weber.freenode.net
+_matthias_,vmhost01.steinbauer.org,a bouncy matthias,card.freenode.net
+camerin,elite.bshellz.net,camerin,hitchcock.freenode.net
+pie_,unaffiliated/pie-/x-0787662,realname,card.freenode.net
+ejcweb,2a03:b0c0:1:d0::368:d001,ejcweb,wilhelm.freenode.net
+Amadiro,dalvik.ping.uio.no,Amadiro Fafarello,barjavel.freenode.net
+StevenPuttemans,gateway/web/freenode/ip.193.191.150.2,193.191.150.2 - http://webchat.freenode.net,herbert.freenode.net
+miej,static-100-2-207-66.nycmny.fios.verizon.net,...,card.freenode.net
+ferdna,cpe-69-23-141-130.elp.res.rr.com,ferdna,tepper.freenode.net
+_0x5eb_,seb-hpws2.w1.tele.crt1.net,Seb,karatkievich.freenode.net
+Takumo,unaffiliated/takumokatekari,Leo A,weber.freenode.net
+ckain,hilla.kapsi.fi,Juha Laukkanen,rajaniemi.freenode.net
+anth0ny,unaffiliated/anth0ny,Anthony,hitchcock.freenode.net
+ghoti,hq.experiencepoint.com,Paul Chvostek, http://www.it.ca/~paul/,weber.freenode.net
+jaeckel,unaffiliated/jaeckel,Steffen Jaeckel,asimov.freenode.net
+slowfool,minster.io,Gautier Minster,barjavel.freenode.net
+Soliton,wesnoth/developer/soliton,Soliton,orwell.freenode.net
+du,unsuccessfulartist.com,du,asimov.freenode.net
+mazes_80,mur31-4-78-210-220-201.fbx.proxad.net,Samuel BAUER,wilhelm.freenode.net
+nimbleark,unaffiliated/nimbleark,nimbleark,hitchcock.freenode.net
+jeffreylevesque,pool-100-15-106-25.washdc.fios.verizon.net,New Now Know How,barjavel.freenode.net
+AndreSomers,quassel.woboq.de,Andr� Somers,tepper.freenode.net
+pozzoni,2604:180::5a69:7f32,pozzoni,wilhelm.freenode.net
+KicStart,unaffiliated/kicstart,purple,adams.freenode.net
+iwamatsu__,www1015ue.sakura.ne.jp,Nobuhiro Iwamatsu,adams.freenode.net
+nx5,unaffiliated/nx5off/x-000000001,nx5,kornbluth.freenode.net
+arthur-_,177.26.7.93.rev.sfr.net,arthur wolf,adams.freenode.net
+Linus,legatus.cloud.tilaa.com,Linus,adams.freenode.net
+thunfisch,unaffiliated/jkoppe,thunfisch,card.freenode.net
+Fastolph,ns328533.ip-37-187-114.eu,Fastolph of the Moon,barjavel.freenode.net
+tapout,unaffiliated/tapout,Qt FTW,wilhelm.freenode.net
+uroboro,gateway/web/irccloud.com/x-zvtgoclxjhlsbgdh,uroboro,leguin.freenode.net
+angular_mike__,gateway/web/irccloud.com/x-tmxfakmbuthlmmmy,MOU,karatkievich.freenode.net
+miz-,unaffiliated/miz-,miz-,karatkievich.freenode.net
+ecdhe,unaffiliated/ecdhe,ecdhe,orwell.freenode.net
+Phlarp_,gateway/web/irccloud.com/x-htolbgimufppyykt,Andrew Macht,adams.freenode.net
+Neuron1k,156.ip-164-132-42.eu,neuron1k,asimov.freenode.net
+HuntsMan,cpc103052-sgyl39-2-0-cust601.18-2.cable.virginm.net,Matias Valdenegro T.,leguin.freenode.net
+akama,unaffiliated/akama,akama,barjavel.freenode.net
+jfmcarreira,unaffiliated/jfmcarreira,Joao Carreira,karatkievich.freenode.net
+paperManu,gateway/shell/elitebnc/x-knihtfsckmnkomin,Manu,verne.freenode.net
+kline,freenode/staff/enucs.kline,Gareth,weber.freenode.net
+DrCode,5.28.134.3,DrCode,barjavel.freenode.net
+flupke,gateway/web/irccloud.com/x-bivzuhwqruumtqxm,flupke,adams.freenode.net
+machinaut,gateway/web/irccloud.com/x-apqelacbnquzcwan,aray,wolfe.freenode.net
+dbkaplun,unaffiliated/dbkaplun,dan,weber.freenode.net
+nyloc,darwin.nyloc.de,nyloc,sinisalo.freenode.net
+jj995,66.185.98.242,purple,hitchcock.freenode.net
+Nexton,212-90-67-162.bb.dnainternet.fi,Arto Meriläinen,niven.freenode.net
+dustinm`,149.56.14.68,dustinm,wolfe.freenode.net
+roxlu,185.85.81.6,Unknown,wilhelm.freenode.net
+Nilesh_,gateway/web/irccloud.com/x-ovcdwkpqavuqhdga,Nilesh Kokane,sinisalo.freenode.net
+abrock_,datenschleuder.net,Alexander Brock,wilhelm.freenode.net
+realz,unaffiliated/realazthat,realname,karatkievich.freenode.net
+parataxis,gateway/web/irccloud.com/x-edtdrjpjaeplcnvz,Bob Poekert,leguin.freenode.net
+Johannes_swe2,user153.77-105-217.netatonce.net,Johannes,rajaniemi.freenode.net
+alextai,188.120.133.186,AlexTAI,niven.freenode.net
+COOurb,pppoe77-82-252-86.kamchatka.ru,4,100kvirc,adams.freenode.net
+nesthib,unaffiliated/nesthib,nesthib,barjavel.freenode.net
+rafalcpp,84-10-11-234.static.chello.pl,Rafal Cpp,tepper.freenode.net
+SorcererX,ti0071a400-6230.bb.online.no,SorcererX,barjavel.freenode.net
+mbarisa,li1507-152.members.linode.com,mbarisa,asimov.freenode.net
+miss_jwo,gateway/web/irccloud.com/x-sffysnaftafabtyp,miss_jwo,rajaniemi.freenode.net
+MichaelC,phpbb/manager/MichaelC,Michael,adams.freenode.net
+bear`,2001:41d0:1:701d::,freenode,wilhelm.freenode.net
+asgrim,thor.asgrim.com,James Titcumb,barjavel.freenode.net
+darkphnx,217.155.195.153,realname,leguin.freenode.net
+Guest17846,2a01:7e00::f03c:91ff:fe89:fb30,Alex Ross,niven.freenode.net
+PHPHBot,thor.asgrim.com,DASBiT,orwell.freenode.net
+miono,irc.lagga.se,miono,barjavel.freenode.net
+Cadero,46.16.233.173,Cadero,card.freenode.net
+rich-,unaffiliated/rich-,GOD,asimov.freenode.net
+goggo,unaffiliated/goggo,P,rajaniemi.freenode.net
+MrPekka,109.74.2.66,MrPekka,asimov.freenode.net
+fulafisken,granestrand.se,Martin Granestrand,wilhelm.freenode.net
+Monolith|,unaffiliated/monolith/x-2615728,monolith,sinisalo.freenode.net
+Cadero_,46.16.233.173,Cadero,card.freenode.net
+Kercket,141.0.169.251,Kercket,sinisalo.freenode.net
+Nirtal,orb.xaz.se,Nirtal,hitchcock.freenode.net
+Sebbeleu,46.16.233.231,Sebbeleu,card.freenode.net
+tscherf,v36404.1blu.de,Thorsten Scherf,wilhelm.freenode.net
+gregwork,gateway/web/irccloud.com/x-gmmbkpcuhbfefouc,Greg Procunier,sinisalo.freenode.net
+winterboing,2a02:8109:8c80:16d4:9a83:89ff:fe0f:eaaa,realname,adams.freenode.net
+SynfulAck,unaffiliated/synfulack,where am i?,adams.freenode.net
+azwieg103,98.144.240.246,Andrew B. Zwieg,adams.freenode.net
+_val_,freebsd/user/val,The most dearing man in the world,karatkievich.freenode.net
+kanarip,121.181.195.178.dynamic.wline.res.cust.swisscom.ch,Jeroen van Meeuwen,hitchcock.freenode.net
+skirk,pdpc/supporter/professional/stuartmi,I will always be skirk,wilhelm.freenode.net
+simo,samba/team/simo,Simo Sorce,leguin.freenode.net
+kukacz,172.99.70.215,Luk�? Kub�n,orwell.freenode.net
+via,smtp2.matthewvia.info,via,adams.freenode.net
+jmcnaught,unaffiliated/jmcnaught,jeremy,verne.freenode.net
+nkinder,47-32-165-239.dhcp.snlo.ca.charter.com,Nathan Kinder,verne.freenode.net
+tjaalton,kapsi.fi,Timo Aaltonen,niven.freenode.net
+dgilmore,fedora/dgilmore,Dennis Gilmore,orwell.freenode.net
+muep__,otitsun.oulu.fi,Joonas Sarajärvi,orwell.freenode.net
+rektide_,eldergods.com,rektide,orwell.freenode.net
+jave,h-235-62.a149.priv.bahnhof.se,joakim verona,barjavel.freenode.net
+arenstar,46.101.102.45,Arenstar,karatkievich.freenode.net
+cnf,unaffiliated/cnf,Frank Rosquin,verne.freenode.net
+MerlinTHP,oni.hdtwo.net,Howard Johnson,niven.freenode.net
+Hazelesque,lopsa/member/hazelesque,Hazel,verne.freenode.net
+r00twrh,73.44.33.86,r00tWearsRedHats,wilhelm.freenode.net
+lslebodn,nat/redhat/x-xtyuoacwllscymlk,Lukas Slebodnik,rajaniemi.freenode.net
+side_control,loki.runlevelone.net,quad damage,verne.freenode.net
+mariosp,nat/redhat/x-yolxqlfvsdumjkwq,Marios Panaousis,wolfe.freenode.net
+alee,cpe-2606-A000-4404-2A00-3E97-EFF-FEDD-B884.dyn6.twc.com,Ade Lee,wilhelm.freenode.net
+richm,c-71-228-104-5.hsd1.nm.comcast.net,Rich Megginson,orwell.freenode.net
+keeper,compsci.adl/secretary/keeperofdakeys,Unknown,weber.freenode.net
+_longines,static.183.80.201.138.clients.your-server.de,longines,wolfe.freenode.net
+willwh,unaffiliated/willskills,William Hetherington,rajaniemi.freenode.net
+wibrown,ppp59-167-222-212.qld.adsl.internode.on.net,wibrown,weber.freenode.net
+petracvv,fuduntu/support/petracvv,Mihai Petracovici,sinisalo.freenode.net
+bougyman,pdpc/supporter/gold/bougyman,Got ZNC?,asimov.freenode.net
+trn,prone.ws,Jeff Johnson,asimov.freenode.net
+tbordaz,wis38-h01-176-150-106-98.dsl.sta.abo.bbox.fr,thierry bordaz,asimov.freenode.net
+chasmo77,158.183-62-69.ftth.swbr.surewest.net,Al Turing,wilhelm.freenode.net
+NightMonkey,pdpc/supporter/professional/nightmonkey,Jesse Adelman,asimov.freenode.net
+kieren,zaftig.tigs.org,kieren,wolfe.freenode.net
+rcrit,redhat/rcrit,Rob Crittenden,orwell.freenode.net
+bipolar,offsite.guru,Benjamin Long,hitchcock.freenode.net
+gparente,nat/redhat/x-cihlqorkphbjworj,German Parente,weber.freenode.net
+jmontleon,redhat/jmontleon,jmontleo,weber.freenode.net
+vashirov,nat/redhat/x-pjrpdyaerbqahojr,Viktor Ashirov,barjavel.freenode.net
+nweiderm,104.238.147.123,nweiderm,niven.freenode.net
+d1zzy,unaffiliated/developer,Unknown,adams.freenode.net
+srv,5.9.10.202,srv,karatkievich.freenode.net
+DarkMukke,gateway/web/irccloud.com/x-bbzmrmvwjcpvzghg,Mukke,rajaniemi.freenode.net
+APic,apic.name,A. Pic. - my name since YOLD 3149,card.freenode.net
+Kernel86,cpe-69-23-104-66.new.res.rr.com,Shawn Novak,leguin.freenode.net
+ChanServ,services.,Channel Services,services.
+Drakevr,unaffiliated/drakevr,~_~,wilhelm.freenode.net
+KaliLinuxGR,unaffiliated/kalilinuxgr,realname,asimov.freenode.net
+diamond_gr,opensuse/member/diamond-gr,Stathis I,leguin.freenode.net
+Someonefromhell,unaffiliated/someonefromhell,and password to log onto db server,sinisalo.freenode.net
+chomwitt,ppp-94-67-221-230.home.otenet.gr,chomwitt,karatkievich.freenode.net
+Polichronucci,193.92.143.226.dsl.dyn.forthnet.gr,polichronucci,hitchcock.freenode.net
+Dersu,unaffiliated/vladgobelen,1,8Dersu,barjavel.freenode.net
+eiosifidis,unaffiliated/eiosifidis,Stathis I,card.freenode.net
+Ampelbein,ubuntu/member/ampelbein,Andreas Moog,wolfe.freenode.net
+Smedles,CPE-58-160-77-59.ssqn1.lon.bigpond.net.au,Paul Smedley,weber.freenode.net
+ratliff,mail.austincnc.com,Unknown,verne.freenode.net
+chiluk,172.34.213.162.lcy-01.canonistack.canonical.com,chiluk,,,,rajaniemi.freenode.net
+karlthane,13.84.155.158,Alex Thomas,wolfe.freenode.net
+schmidtm_,2001:41d0:a:30dc:178:33:33:178,Mark Schmidt,wilhelm.freenode.net
+_hanhart,static.141.80.201.138.clients.your-server.de,flieger,barjavel.freenode.net
+dkessel,ubuntu/member/dkessel,dkessel,wolfe.freenode.net
+tinoco,ubuntu/member/inaddy,Rafael David Tinoco,rajaniemi.freenode.net
+nhandler,freenode/staff/ubuntu.member.nhandler,Nathan Handler,karatkievich.freenode.net
+dreamon__,unaffiliated/dreamon,realname,weber.freenode.net
+kspencer,unaffiliated/kspencer,Iota,adams.freenode.net
+josvaz_,92.176.11.37.dynamic.jazztel.es,realname,weber.freenode.net
+philroche,ec2-52-51-163-177.eu-west-1.compute.amazonaws.com,Phil Roche,karatkievich.freenode.net
+rbasak,canonical/rbasak,Robie Basak,wilhelm.freenode.net
+wolsen,gateway/web/irccloud.com/x-bykoemldbeaboqoi,Billy Olsen,adams.freenode.net
+negronjl,pool-74-101-16-132.nycmny.fios.verizon.net,Juan L. Negron,karatkievich.freenode.net
+mwhudson,canonical/mwhudson,Michael Hudson-Doyle,asimov.freenode.net
+Pici,ubuntu/member/pdpc.professional.pici,Benjamin Rubin,weber.freenode.net
+davmor2,cpc88265-wolv19-2-0-cust989.16-1.cable.virginm.net,Dave Morley,verne.freenode.net
+tlyu,sarnath.mit.edu,Tom Yu,tepper.freenode.net
+book`_,68.ip-149-56-14.net,book,wolfe.freenode.net
+hggdh,ubuntu/member/hggdh,C de-Avillez,orwell.freenode.net
+Noskcaj,ubuntu/member/noskcaj,Jackson Doak,niven.freenode.net
+sgclark,ubuntu/member/sgclark,Scarlett Clark,adams.freenode.net
+wxl,linuxpadawan/master/wxl,http://polka.bike,adams.freenode.net
+bdmurray,vinyl.outflux.net,Brian,rajaniemi.freenode.net
+FourDollars,gateway/web/irccloud.com/x-rlozbjuaorgibpqr,Shih-Yuan Lee,wilhelm.freenode.net
+hikiko,unaffiliated/hikiko,Eleni Maria Stea,asimov.freenode.net
+Logan,ubuntu/member/logan,Logan Rosen,wolfe.freenode.net
+Ursinha,ubuntu/member/ursinha,Ursula Junque,adams.freenode.net
+acheronuk,ubuntu/member/acheronuk,Rik,adams.freenode.net
+bregma,xplr-23-239-33-107.xplornet.com,Stephen M. Webb,barjavel.freenode.net
+tsimonq2,ubuntu/member/tsimonq2,Simon Quigley,karatkievich.freenode.net
+kees,ubuntu/member/keescook,Kees Cook,card.freenode.net
+ddstreet,45-27-90-188.lightspeed.rlghnc.sbcglobal.net,Dan Streetman,barjavel.freenode.net
+uInTheShell,vps766.greenhost.nl,u,adams.freenode.net
+ubot5`,ubuntu/bot/ubot5,Ubuntu IRC Bot,karatkievich.freenode.net
+tdaitx,209.95.50.44,Tiago Stürmer Daitx,tepper.freenode.net
+cyphermox,ubuntu/member/pdpc.supporter.active.cyphermox,Matt Trudel,wilhelm.freenode.net
+glebihan_,unaffiliated/glebihan,glebihan,niven.freenode.net
+G,unaffiliated/g,Nigel Jones,adams.freenode.net
+Trevinho,ubuntu/member/trevinho,Marco Trevisan,rajaniemi.freenode.net
+shaner,162-230-82-81.lightspeed.bcvloh.sbcglobal.net,shaner,,,,weber.freenode.net
+jhenke,2a04:ce40:100:da::101:5,Jan Henke,niven.freenode.net
+flexiondotorg,ubuntu/member/flexiondotorg,Martin Wimpress,karatkievich.freenode.net
+maxb,jabberwock.vm.bytemark.co.uk,Max Bowsher,hitchcock.freenode.net
+madwizard,217.8.185.189,Damian Wojslaw,rajaniemi.freenode.net
+ddellav,citadel.qubitlogic.net,David Della Vecchia,verne.freenode.net
+pleia2,your.worshipfulness.princessleia.com,Elizabeth K. Joseph,adams.freenode.net
+dcmorton,104.130.124.79,Derek Morton,card.freenode.net
+elijah,gateway/web/irccloud.com/x-gohrykoczswvdhrj,Elijah Lynn,wolfe.freenode.net
+faenil,static.186.47.47.78.clients.your-server.de,Andrea Bernabei,wolfe.freenode.net
+teward,ubuntu/member/teward,Thomas Ward,wolfe.freenode.net
+bladernr`,65.93.189.91.lcy-01.canonistack.canonical.com,Jeff Lane,wolfe.freenode.net
+PaulW2U_,ubuntu/member/paulw2u,Paul White,adams.freenode.net
+himanshub16,124.124.42.72,realname,leguin.freenode.net
+ubot9,ubuntu/bot/ubot93,Ubuntu OP's bot.,weber.freenode.net
+Sedo,2a03:b0c0:3:d0::12f:8001,Manuel Thallinger,niven.freenode.net
+jtaylor,62.80.20.142,Julian Taylor,card.freenode.net
+Odd_Bloke,178.62.30.74,daniel,wolfe.freenode.net
+Zigtalk,2605:e000:99c9:400:b05f:5153:acc3:e76a,A CIRC user,leguin.freenode.net
+dragan-s,68.47.183.86,Dragan Stancevic,tepper.freenode.net
+tarpman,unaffiliated/tarpman,Ryan Tandy,orwell.freenode.net
+ogasawara,c-98-246-49-29.hsd1.or.comcast.net,ogasawara,weber.freenode.net
+Jikan,noein.haruka.fr,Jikan,leguin.freenode.net
+glebihan,unaffiliated/glebihan,glebihan,tepper.freenode.net
+Flannel,ubuntu/member/flannel,Flannel,verne.freenode.net
+yofel,ubuntu/member/yofel,Philip Muskovac,niven.freenode.net
+jibel,65.93.189.91.lcy-01.canonistack.canonical.com,j-lallement,niven.freenode.net
+Orphis,adam.orphis.net,Orphis,orwell.freenode.net
+bpye,unaffiliated/bpye,Ben,adams.freenode.net
+wgrant,ubuntu/member/wgrant,wgrant,barjavel.freenode.net
+techntoke__,gateway/web/irccloud.com/x-sqjqrxwuefmepfaz,techntoke__,adams.freenode.net
+ogra_,p5098ed03.dip0.t-ipconnect.de,Oliver Grawert,leguin.freenode.net
+iaglium,45.63.76.107,iaglium,barjavel.freenode.net
+sbeattie,us.sesame.canonical.com,Steve Beattie <steve@nxnw.org>,weber.freenode.net
+mdeslaur,ubuntu/member/mdeslaur,Marc Deslauriers,card.freenode.net
+sakrecoer,basspistol/sakrecoer,Set Sakrecoer,wolfe.freenode.net
+jrib1,upstream/dev/jrib,jrib,karatkievich.freenode.net
+powersj,65.93.189.91.lcy-01.canonistack.canonical.com,Joshua Powers,rajaniemi.freenode.net
+ubuntulog,ubuntu/bot/ubuntulog,log bot:: contact rt@ubuntu.com,adams.freenode.net
+meetingology,ubuntu/bot/meetingology,meetingology,tepper.freenode.net
+tlbr,93.170.105.80,Ivan Udovichenko,hitchcock.freenode.net
+freyes__,2600:3c01::f03c:91ff:fe73:398c,Reyes",rajaniemi.freenode.net
+tdn,syrah.adora.dk,Thomas,wilhelm.freenode.net
+ggherdov,gateway/web/irccloud.com/x-vbwaayesufqmtyef,Giovanni Gherdovich,rajaniemi.freenode.net
+PaulePanter,mail.gw90.de,Paul Menzel,card.freenode.net
+ludocode,24-246-0-251.cable.teksavvy.com,ludocode,adams.freenode.net
+Chais,unaffiliated/chais,Chais,sinisalo.freenode.net
+altendky,gateway/web/irccloud.com/x-dpnwgdpkrhvdjbpc,Kyle Altendorf,adams.freenode.net
+nohop,cpe-74-65-143-148.maine.res.rr.com,Tom Wimmenhove,leguin.freenode.net
+UnicornForest,c-50-152-200-154.hsd1.ca.comcast.net,Jacob,verne.freenode.net
+bigpet,gateway/web/irccloud.com/x-zinqbqcysijpsfag,Peter Tissen,sinisalo.freenode.net
+Orphis,adam.orphis.net,Orphis,orwell.freenode.net
+dexter0,2601:647:4502:8c00:6dcc:9b87:e53e:123d,Dex,wilhelm.freenode.net
+SlashLife,botters/slashlife,Simon Stienen,adams.freenode.net
+kabin,202.63.242.180,realname,niven.freenode.net
+narendraa,202.63.242.180,realname,asimov.freenode.net
+sandeepsth,202.63.242.180,realname,rajaniemi.freenode.net
+dilak,202.63.242.180,realname,orwell.freenode.net
+Narendra,irc.louis6321.com,Narendra,roddenberry.freenode.net
+Dovan,202.63.242.180,Dovan Rai,barjavel.freenode.net
+Buddhi,202.63.242.180,1,100KVIrc 4.9.1 Aria http://kvirc.net/,sinisalo.freenode.net
+Upaya,202.63.242.180,realname,rajaniemi.freenode.net
+Rabita,202.63.242.180,realname,orwell.freenode.net
+tika1,202.63.242.180,Tikaraj Karki,sinisalo.freenode.net
+rabikarma,202.63.242.180,Rabi Karmacharya,asimov.freenode.net
+trishala,202.63.242.180,realname,barjavel.freenode.net
+deepa__,202.63.242.180,deepa,asimov.freenode.net
+ashishG,202.63.242.180,realname,wilhelm.freenode.net
+kalpana,202.63.242.180,realname,wilhelm.freenode.net
+ThomasJaguar1212,cpe-174-96-244-173.columbus.res.rr.com,purple,barjavel.freenode.net
+fhdrin,136.0.16.230,realname,wilhelm.freenode.net
+roxfan,35.207-67-87.adsl-dyn.isp.belgacom.be,roxfan,verne.freenode.net
+igitoor,unaffiliated/contempt,igitur,rajaniemi.freenode.net
+klys,45.55.20.239,Mdasoh Kyaeppd,wolfe.freenode.net
+totalizator,degu.pl,totalizator,orwell.freenode.net
+Ricardus,69.201.72.201,Rich Vincent,wilhelm.freenode.net
+riddle,us.yunix.net,decadance,karatkievich.freenode.net
+gluon,2a06:8ec0:0:30d4::1,gluon,leguin.freenode.net
+valeriusq,2a01:4f8:d16:2052::2,???????????? Quassel IRC,adams.freenode.net
+winny,unaffiliated/winstonw,winny,niven.freenode.net
+ChanServ,services.,Channel Services,services.
+CookieJar,wnklmb01dc1-187-252.dynamic.mtsallstream.net,realname,barjavel.freenode.net
+camerin,elite.bshellz.net,camerin,hitchcock.freenode.net
+f10d4,unaffiliated/f10d4,Unknown,barjavel.freenode.net
+jhall,gateway/web/irccloud.com/x-zolujfgcdjhczsod,Jim Hall,barjavel.freenode.net
+quackgyver,gateway/web/irccloud.com/x-gsaepubddtwhitow,quackgyver,karatkievich.freenode.net
+tuxlovesyou,172.242.239.209,Unknown,adams.freenode.net
+qptain_Nemo,37.204.239.206,qptain Nemo,adams.freenode.net
+valerius,2a01:4f8:d16:2052::2,Valery V. Sedletski,wolfe.freenode.net
+sparky4,hutcheson-101.resnet.latech.edu,INSTALL WINDOWS MEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE,weber.freenode.net
+Sompi,mobile-user-2e84ba-83.dhcp.inet.fi,Sami_Tikkanen,rajaniemi.freenode.net
+inara,68.ip-149-56-14.net,inara,karatkievich.freenode.net
+Mr_Sheesh,unaffiliated/mr-sheesh/x-0757054,M,card.freenode.net
+ferdna,cpe-69-23-141-130.elp.res.rr.com,ferdna,tepper.freenode.net
+MrRobot01,gateway/shell/elitebnc/x-tncwaqtehjoaaxen,MrRobot01,adams.freenode.net
+diginet2,107.170.146.29,John Titor,orwell.freenode.net
+ledixus,evil-ant-colony.org,ledi,wolfe.freenode.net
+EvilAntCyborg,2a01:4f8:172:1a2f::2,EvilAntCyborg,adams.freenode.net
+Melanosuchus,evil-ant-colony.org,Mela,tepper.freenode.net
+Floris,evil-ant-colony.org,Floris,asimov.freenode.net
+Beebz,unaffiliated/beebz,Beebz,hitchcock.freenode.net
+EACFreddy,evil-ant-colony.org,Freddy,wilhelm.freenode.net
+cvhc,103.192.224.177,weechat,hitchcock.freenode.net
+condy,unaffiliated/condy,爱利的好爸爸,tepper.freenode.net
+gauge,unaffiliated/gauge,Unknown,sinisalo.freenode.net
+jokester,unaffiliated/jokester,mono,rajaniemi.freenode.net
+fixme,unaffiliated/fixme,fixme,adams.freenode.net
+LQYMGT,sjtug/member/LQYMGT,Quanyang Liu,card.freenode.net
+felixonmars,archlinux/developer/felixonmars,Felix Yan,rajaniemi.freenode.net
+farseerfc,archlinux/tu/farseerfc,farseerfc,wilhelm.freenode.net
+dantmnf,unaffiliated/dantmnf,dantmnf,niven.freenode.net
+jiajunw,unaffiliated/jiajunw,Jiajun Wang,verne.freenode.net
+nhandler,freenode/staff/ubuntu.member.nhandler,Nathan Handler,karatkievich.freenode.net
+ChanServ,services.,Channel Services,services.
+DANtheBEASTman,bananabo.xyz,DanielFGray,wolfe.freenode.net
+n0xa_,h-i-r.net,Noah Axon,orwell.freenode.net
+neona,63.142.250.232,d34dgrrl,weber.freenode.net
+ChanServ,services.,Channel Services,services.
+BillyCrook,bcrook.com,Billy Crook,wolfe.freenode.net
+hosh,gateway/web/irccloud.com/x-jahwqbrgxdckzgof,Ho-Sheng Hsiao,wolfe.freenode.net
+torako,63.142.250.232,Torako,asimov.freenode.net
+KimK,2600:8803:7a85:6d00:3826:c6db:c833:12af,Kim Kirwan,rajaniemi.freenode.net
+Veda,D93F3CB2.cm-20.dynamic.ziggo.nl,Veda,verne.freenode.net
+jave,h-235-62.a149.priv.bahnhof.se,joakim verona,barjavel.freenode.net
+Gohla,D93F3CB2.cm-20.dynamic.ziggo.nl,Gohla,weber.freenode.net
+ChanServ,services.,Channel Services,services.
+Silly,104.236.92.80,Got ZNC?,asimov.freenode.net
+Sunwalker,gateway/web/irccloud.com/x-oojcgiegfvwojqcd,Tiago Becerra Paolini,adams.freenode.net
+uwharrie,cpe-24-74-57-229.carolina.res.rr.com,realname,asimov.freenode.net
+pheand__,gateway/vpn/privateinternetaccess/pheand,realname,karatkievich.freenode.net
+r04r,unaffiliated/r04r,r04r,asimov.freenode.net
+Severs,c-24-3-103-74.hsd1.pa.comcast.net,Steve,verne.freenode.net
+Aldazar,60-240-79-83.static.tpgi.com.au,realname,hitchcock.freenode.net
+frostyfrog,unaffiliated/frostyfrog,Archlinux? I have a few of those lying around here,wolfe.freenode.net
+PorterW,108-80-5-125.lightspeed.milwwi.sbcglobal.net,The Chat cool people use,tepper.freenode.net
+Astraltor-,unaffiliated/astraltor,Astraltor,hitchcock.freenode.net
+Oterion,60-240-79-83.static.tpgi.com.au,realname,wilhelm.freenode.net
+Comstock,unaffiliated/comstock,realname,leguin.freenode.net
+Pongles,i.am.not.a.bot.i.am.just.pongles.ca,Pongles Filibuster Esquire,verne.freenode.net
+balrog,unaffiliated/balrog,balrog,orwell.freenode.net
+ChanServ,services.,Channel Services,services.
+ALurker,unaffiliated/alurker,ALurker,rajaniemi.freenode.net
+txtsd,198.23.246.143,Herpington Derpson,asimov.freenode.net
+acsid_,cowking.00stack.in,acsid@00stack.in INDIE DEV,rajaniemi.freenode.net
+nezticle,qad.io,Andy Nichols,niven.freenode.net
+photo_afk,unaffiliated/photostyle,nobody,tepper.freenode.net
+knocktwice,cpe-24-242-71-104.austin.res.rr.com,geoff,wolfe.freenode.net
+chemist69,2a02:560:418d:4900:1706:4243:e29e:98ad,apl,leguin.freenode.net
+Spitfire,wikipedia/spitfire,Do you know how to pick up the pieces and go home?,wilhelm.freenode.net
+Diamond,unaffiliated/diamond,Diamond,wolfe.freenode.net
+kozie,185.87.185.133,Kozie,karatkievich.freenode.net
+cantorsdust,gateway/web/irccloud.com/x-znkxrmaoiyffrqau,cantorsdust,adams.freenode.net
+tivec,2a01:7e00::f03c:91ff:fe50:7295,Tivec!,niven.freenode.net
+ConcernedHobbit,irc.concernedhobbit.eu,Concerned Hobbit, a Concerned Hobbit.,wilhelm.freenode.net
+CopherNeue,unaffiliated/copherneue,realname,niven.freenode.net
+Dazzyp,81-231-72-94-no23.tbcn.telia.com,...,hitchcock.freenode.net
+catpigger,p54A56589.dip0.t-ipconnect.de,realname,leguin.freenode.net
+Khilandros,CPE602ad089d701-CM602ad089d6fe.cpe.net.cable.rogers.com,HerpDerp,karatkievich.freenode.net
+Hyst,CPE-124-189-28-144.bkzh1.cht.bigpond.net.au,Hysting,card.freenode.net
+tomshreds,192.34.58.130,shreds,adams.freenode.net
+PaleoCrafter,weneg.de,PaleoCrafter,niven.freenode.net
+Darkbuilderx,2601:189:200:92b:d929:88f6:75fb:8f28,wha~?,adams.freenode.net
+LordRyan,ny1.hashbang.sh,ryan,tepper.freenode.net
+Wolvereness,unaffiliated/wolvereness,Wesley Wolfe,wilhelm.freenode.net
+hortonew,98.245.246.201,hortonew,niven.freenode.net
+elky,ubuntu/member/pdpc.professional.elky,elky,wilhelm.freenode.net
+MagikEh,wnpgmb014uw-ad04-183-68.dynamic.mtsallstream.net,Hahaaahaa Noob,barjavel.freenode.net
+Djohaal,2001:1284:f006:b4b9:3428:f641:4f16:e9d3,realname,rajaniemi.freenode.net
+Elysion,124-171-185-20.dyn.iinet.net.au,Elysion,roddenberry.freenode.net
+c0ng,drmons0544w-156057164152.dhcp-dynamic.FibreOp.ns.bellaliant.net,Docker Eggdrop!,verne.freenode.net
+daynaskully,unaffiliated/daynaskully,dayna,verne.freenode.net
+TheRealJesus,unaffiliated/therealjesus,/join #1999,wolfe.freenode.net
+beeble,macht.narf.at,Klaus Goger,card.freenode.net
+shurke,86.59.21.20,i pity the foo,wolfe.freenode.net
+choseh,choseh.de,chosi,hitchcock.freenode.net
+poehn,amd.co.at,Pellaeon,asimov.freenode.net
+chosi,choseh.de,krautchoseh,verne.freenode.net
+hvr,haskell/developer/hvr,Herbert Valerio Riedel,barjavel.freenode.net
+eisber,131.130.141.38,Markus Cozowicz,verne.freenode.net
+dsdel,mail.sigterm.eu,bleh,orwell.freenode.net
+tium,percival.namespace.at,tium,rajaniemi.freenode.net
+klip,gollum.klapka.cz,Tomáš Klapka,card.freenode.net
+black_rez,calculating-god.com,Black ReZ,karatkievich.freenode.net
+ChanServ,services.,Channel Services,services.
+dlareg,rai21-2-82-228-65-118.fbx.proxad.net,dlareg,rajaniemi.freenode.net
+Lausefuchs,freenode/staff/fuchs,Christian,wilhelm.freenode.net
+grumble,freenode/staff/grumble,grumble,sinisalo.freenode.net
+ChanServ,services.,Channel Services,services.
+Fuchs,freenode/staff/fuchs,Christian,karatkievich.freenode.net
+ChanServ,services.,Channel Services,services.
+Margo,Margo.Bot.chatlounge.net,Theatre Diva (Bot) - Owned by Ben,karatkievich.freenode.net
+MrC,mrbenc.net,Ben,asimov.freenode.net
+lunarkitty7,c-73-140-70-217.hsd1.wa.comcast.net,lunarkitty7,verne.freenode.net
+nekomimibot,c-73-140-70-217.hsd1.wa.comcast.net,CloudBot - https://git.io/CloudBot,rajaniemi.freenode.net
+ChanServ,services.,Channel Services,services.
+ybden,unaffiliated/ybden,Ralph Holmes,leguin.freenode.net
+puckipedia,puckipedia.com,:P,hitchcock.freenode.net
+thinkpol,130.225.0.251,thinkpol,sinisalo.freenode.net
+XgF,magi1.paris.fr.node.e43.eu,Owen Shepherd,asimov.freenode.net
+shikhin,unaffiliated/shikhin,Shikhin Sethi,card.freenode.net
+hydraz,unaffiliated/demhydraz,Matheus A.,asimov.freenode.net
+ChanServ,services.,Channel Services,services.
+minicat,130.225.0.251,Ministry of Concatenation,rajaniemi.freenode.net
+oonbotti2,heddw.ch,oonbotti2,leguin.freenode.net
+nortti,ayu.smar.moe,Juhani Haverinen,asimov.freenode.net
+ymg,31.205.122.90,Yasir,hitchcock.freenode.net
+ziman,functor.sk,= Matus Tejiscak,card.freenode.net
+tonbo,2a03:b0c0:1:a1::c1:4001,tonbo,niven.freenode.net
+edwinb,gateway/web/irccloud.com/x-mbgbuzeyxhbdvcjq,Edwin Brady,adams.freenode.net
+ChanServ,services.,Channel Services,services.
+fari,klovia.cs.st-andrews.ac.uk,František Farka,karatkievich.freenode.net
+profmakx,unaffiliated/profmakx,Markus Pfeiffer,verne.freenode.net
+Xirrin,2604:a880:400:d0::964:a001,Xirrin,wolfe.freenode.net
+bjonnh,unaffiliated/bjonnh,Bjonnh,niven.freenode.net
+Toba_,freyr.truct.org,Eric Stein,weber.freenode.net
+yokel,unaffiliated/contempt,yokel,wolfe.freenode.net
+brrm,HSI-KBW-085-216-003-192.hsi.kabelbw.de,Got ZNC?,adams.freenode.net
+ChanServ,services.,Channel Services,services.
+Hobbyboy,gateway/shell/panicbnc/x-fqbyrfcjevawlgcx,Andrew,adams.freenode.net
+caveat,shell.bshellz.net,caveat,wilhelm.freenode.net
+SteveMcIntyre,cheddar.halon.org.uk,Steve McIntyre,niven.freenode.net
+bradm,baryon.humbug.org.au,Unknown,orwell.freenode.net
+erhandsome,unaffiliated/erhandsome,erhandsome,weber.freenode.net
+craige,2400:8901::f03c:91ff:fee4:8ce5,craige,niven.freenode.net
+mwheeler,gateway/web/irccloud.com/x-vsvjucxstlismmif,Michael Wheeler,verne.freenode.net
+talonz,ppp118-208-240-50.bras1.hba2.internode.on.net,realname,asimov.freenode.net
+donak,d58-106-1-208.rdl801.qld.optusnet.com.au,Don Knowles,card.freenode.net
+ChanServ,services.,Channel Services,services.
+swathe,128.199.195.215,Darth Vader,weber.freenode.net
+X-Rob,gateway/web/irccloud.com/x-kqapddpoyisvwflz,Rob Thomas,rajaniemi.freenode.net
+EricWF,S0106bcd1653002b9.cg.shawcable.net,realname,karatkievich.freenode.net
+eki,dsl-hkibrasgw3-58c3d9-104.dhcp.inet.fi,eki,leguin.freenode.net
+wernsaar,p4FF1C80C.dip0.t-ipconnect.de,wernsaar,adams.freenode.net
+ake_s,irc-kvm.hpc2n.umu.se,Ake Sandgren,sinisalo.freenode.net
+igitoor,unaffiliated/contempt,igitur,rajaniemi.freenode.net
+dinoex,cpe.602500.kunde.netcomnetz.de,Dirk Meyer,niven.freenode.net
+AlexAltea,phi.nz,Alexandro Sanchez,barjavel.freenode.net
+sc0ty,gateway/web/irccloud.com/x-vfdpbgrpadqwzmck,Carlos Costa,adams.freenode.net
+glisse,annarchy.freedesktop.org,glisse,rajaniemi.freenode.net
+zao,pdpc/supporter/professional/zao,Lars Viklund,card.freenode.net
+miguelzf,163.172.158.156,miguelzf,adams.freenode.net
+codestr0m,unaffiliated/codestr0m,./C,weber.freenode.net
+marcheu,annarchy.freedesktop.org,Stephane Marchesin,asimov.freenode.net
+dustinm`,149.56.14.68,dustinm,wolfe.freenode.net
+tru_tru,atsukau.bis.pasteur.fr,Tru,asimov.freenode.net
+mgorny,gentoo/developer/mgorny,Micha? G�rny,weber.freenode.net
+klondike,gentoo/developer/klondike,klondike,verne.freenode.net
+ChanServ,services.,Channel Services,services.
+Hunger-,prodevops.net,EGO,adams.freenode.net
+Lord_XetroV,dvk44.neoplus.adsl.tpnet.pl,realname,verne.freenode.net
+LobsterMan,unaffiliated/lobsterman,...,asimov.freenode.net
+Smeef,unaffiliated/smeef,realname,wolfe.freenode.net
+Jakey,unaffiliated/jakey,Jakey69,verne.freenode.net
+thekrynn_,ool-4350b3b3.dyn.optonline.net,Alex,sinisalo.freenode.net
+burtons,S0106a0639172137a.cg.shawcable.net,Textual User,weber.freenode.net
+Hitechcg,67.233.109.227,Hitechcomputergeek,tepper.freenode.net
+ChanServ,services.,Channel Services,services.
+ahoo,gateway/web/irccloud.com/x-opwqomoonzizyqej,ahoo,adams.freenode.net
+Guest64435,01111010.01101110.01100011.firrre.com,spooky,rajaniemi.freenode.net
+ratoder,static.111.19.201.138.clients.your-server.de, Java IRC Bot,asimov.freenode.net
+waxwing,62.205.214.125,Adam Gibson,card.freenode.net
+tromp_,rtc35-063.rentec.com,John Tromp,leguin.freenode.net
+luke-jr,unaffiliated/luke-jr,Luke Dashjr,hitchcock.freenode.net
+aj,cerulean.erisian.com.au,Anthony Towns,wilhelm.freenode.net
+kanzure,unaffiliated/kanzure,Bryan Bishop,weber.freenode.net
+bsm1175321,38.121.165.30,purple,asimov.freenode.net
+cdecker,mail.snyke.net,Christian Decker,wolfe.freenode.net
+adlai,unaffiliated/adlai,adlai,hitchcock.freenode.net
+Taek,2001:41d0:1:472e::,Quassel IRC User,wilhelm.freenode.net
+instagibbs,pool-100-15-114-3.washdc.fios.verizon.net,NA,tepper.freenode.net
+wasi,gateway/tor-sasl/wasi,Kilian Waser - http://kili.wasi.li/,zelazny.freenode.net
+andytoshi,wpsoftware.net,Andrew Poelstra,wilhelm.freenode.net
+rhett,c-73-223-86-218.hsd1.ca.comcast.net,realname,weber.freenode.net
+Lightsword,107.170.253.193,James,niven.freenode.net
+ChanServ,services.,Channel Services,services.
+ArneBab,freenet/developer/arnebab,Quassel IRC User,tepper.freenode.net
+jchmrt,fsf/member/jchmrt,jchmrt,orwell.freenode.net
+shymega,2001:ba8:1f1:f082:216:5eff:fe00:45a,shymega,karatkievich.freenode.net
+johndev,2a01:4f8:c17:114::2,John Dev,wilhelm.freenode.net
+vidplace7,gateway/web/irccloud.com/x-kdegbaljbplgpxld,vid,wolfe.freenode.net
+mal``,68.ip-149-56-14.net,mal``,rajaniemi.freenode.net
+Marco,gateway/shell/layerbnc/x-kdruopmrmkqiecsy,Marco,weber.freenode.net
+sonne,unaffiliated/sonne,Alessandro Grassi,adams.freenode.net
+expboy_,bnc.stormbit.net,ExPBoy,hitchcock.freenode.net
+stryx`,unaffiliated/stryx/x-3871776,stryx,verne.freenode.net
+salluc69,host242-221-dynamic.14-87-r.retail.telecomitalia.it,Luciano Salerno,rajaniemi.freenode.net
+zerkalo,ny1.hashbang.sh,myricae,adams.freenode.net
+weltall,planeshift/developer/weltall,weltall,roddenberry.freenode.net
+tizbac,2001:41d0:51:1::a01,Tiziano,adams.freenode.net
+LucaLumetti,winter.pietroalbini.io,Luca Lumetti,sinisalo.freenode.net
+Janvitus,151.73.89.119,Gianvito,verne.freenode.net
+Muflo,gateway/web/irccloud.com/x-zwygwohikiyflpos,Muflo,wilhelm.freenode.net
+pietroalbini,ubuntu/member/pietroalbini,Pietro Albini,sinisalo.freenode.net
+ChanServ,services.,Channel Services,services.
+Mr_Pan,unaffiliated/mr-pan/x-4457432,Guy Fawkes,adams.freenode.net
+Uzzi,gateway/web/freenode/ip.85.40.99.14,85.40.99.14 - http://webchat.freenode.net,herbert.freenode.net
+b00k3r,unaffiliated/b00k3r,b00k3r,adams.freenode.net
+ryuujin,server.dev2geek.org,Mircha Emanuel D'Angelo,barjavel.freenode.net
+Attoy,ybox00.ybox.it,Are you curious?,barjavel.freenode.net
+ubot-it,unaffiliated/twilight/bot/ubot-it,ubot-it,card.freenode.net
+YouNeverKnow,youneverknow.tk,You Never Know,niven.freenode.net
+mapreri,ubuntu/member/mapreri,Mattia Rizzolo,wolfe.freenode.net
+_laco,static.183.80.201.138.clients.your-server.de,laco,weber.freenode.net
+iSagitt,gateway/web/irccloud.com/x-vadvbpimjgjdeaom,iSagitt,wilhelm.freenode.net
+Infybofh,infinitybofh-1-pt.tunnel.tserv23.zrh1.ipv6.he.net,a BOFH...,rajaniemi.freenode.net
+Acn0w,kahlan.mapreri.org,Alessandro,wilhelm.freenode.net
+matteo,openwrt/developer/matteo,Matteo Croce,sinisalo.freenode.net
+Carlin0,unaffiliated/carlin0,Mio nonno inculava i curiosi ...,roddenberry.freenode.net
+remix_tj,bonatti.remixtj.net,remix_tj,card.freenode.net
+ubuntulog,ubuntu/bot/ubuntulog,log bot:: contact rt@ubuntu.com,adams.freenode.net
+sanova,ff5.linuxd.it,sanova,barjavel.freenode.net
+orangemocha,gateway/web/irccloud.com/x-rypbundrrmyomkiv,Alexis Campailla,niven.freenode.net
+introspectr3,unaffiliated/krshna,From Russia with love,karatkievich.freenode.net
+joco42,gateway/web/irccloud.com/x-qbihzosbmdcsngzp,joco42,wolfe.freenode.net
+jfisk87,50-1-126-237.dsl.static.fusionbroadband.com,Textual User,karatkievich.freenode.net
+bjorn,pdpc/supporter/active/bjorn,Thorbj�rn Lindeijer,wolfe.freenode.net
+zotune_,43.255.32.42,realname,sinisalo.freenode.net
+Pymous,clapity.eu,Pymous,verne.freenode.net
+ChanServ,services.,Channel Services,services.
+dollarone,unaffiliated/dollarone,Unknown,verne.freenode.net
+_sean,unaffiliated/-sean/x-4737210,_sean,asimov.freenode.net
+blackbird,remote.weblappark.hu,blackbird,adams.freenode.net
+ChanServ,services.,Channel Services,services.
+solution_,shell.bshellz.net,solution,adams.freenode.net
+dreamseeker_,2E6B7304.dsl.pool.telekom.hu,dreamseeker,verne.freenode.net
+vmiklos,catv-80-98-10-90.catv.broadband.hu,Miklos Vajna,tepper.freenode.net
+jerith,kadath.slipgate.net,jerith,orwell.freenode.net
+jeroud,gateway/web/irccloud.com/x-eftnvgizmuubgciw,jerith,rajaniemi.freenode.net
+idnar,gateway/web/irccloud.com/x-elzmpswmfawraain,Tristan Seligmann,adams.freenode.net
+jonathanj,kadath.slipgate.net,Jonathan Jacobs,adams.freenode.net
+Guest82720,194.97.152.20,Unknown,rajaniemi.freenode.net
+ratoder,static.111.19.201.138.clients.your-server.de, Java IRC Bot,asimov.freenode.net
+luke-jr,unaffiliated/luke-jr,Luke Dashjr,hitchcock.freenode.net
+_flow__,star.geekplace.eu,none,leguin.freenode.net
+Alopex,cyber.dealing.ninja,Dealing Ninja,leguin.freenode.net
+likewhoa,s2.maserver.com,Fernando Reyes,rajaniemi.freenode.net
+parazyd,unaffiliated/parazyd,parazyd,wilhelm.freenode.net
+laurentb,2001:41d0:2:5aae::42,plop,wilhelm.freenode.net
+Alina-malina,unaffiliated/alina-malina,Alinka,verne.freenode.net
+BonyM1,ua-83-227-211-4.cust.bredbandsbolaget.se,BonyMs,karatkievich.freenode.net
+robink,unaffilated/robink,Robin Kauffman,card.freenode.net
+NightMonkey,pdpc/supporter/professional/nightmonkey,Jesse Adelman,asimov.freenode.net
+nethershaw,unaffiliated/nethershaw,ora pro pluvis.,rajaniemi.freenode.net
+alexxy,gentoo/developer/alexxy,Alexey Shvetsov,sinisalo.freenode.net
+djoot,unaffiliated/djoot,Unknown,tepper.freenode.net
+CoLa,kde/cordlandwehr,Andreas Cord-Landwehr,adams.freenode.net
+oini,gateway/shell/kde/x-stoyvurxkjiuonvd,Oindrila Gupta,niven.freenode.net
+avikpal,gateway/shell/kde/x-fprgmmryufenqsen,Avik Pal,adams.freenode.net
+samikshan,gateway/shell/kde/x-xogxrupdvsvwdllv,Samikshan Bairagya,adams.freenode.net
+frankenstein,c-98-243-132-38.hsd1.mi.comcast.net,Tyler Frankenstein,orwell.freenode.net
+f0und,unaffiliated/kartagis/bot/f0und,Supybot 0.83.4.1+limnoria 2015.09.16,wilhelm.freenode.net
+duckydan,192.111.79.220,Dan,asimov.freenode.net
+Hijiri,104.236.61.10,Hijiri,karatkievich.freenode.net
+vetinari,137.110.161.169,no u,barjavel.freenode.net
+alyee,137.110.161.169,alyee,wolfe.freenode.net
+mach,162.248.141.245,mach,weber.freenode.net
+pinkmuffinere,137.110.161.169,pinkmuffinere,asimov.freenode.net
+aphan,137.110.161.169,aphan,barjavel.freenode.net
+rray,unaffiliated/rray,ssssshhh,weber.freenode.net
+abuss,unaffiliated/abuss,abuss,karatkievich.freenode.net
+abby_normal,167.88.113.177,bloodbird,wolfe.freenode.net
+seeknull,138.197.200.72,Seek Null,barjavel.freenode.net
+Kleps,137.110.161.169,Kyle,barjavel.freenode.net
+lhawkins,137.110.161.169,lhawkins,wolfe.freenode.net
+[`],11.ip-158-69-222.net,cinch,card.freenode.net
+ChanServ,services.,Channel Services,services.
+numist,freenode/staff-emeritus/numist,Scott Perry,asimov.freenode.net
+dymk,unaffiliated/dymk,dymk,wilhelm.freenode.net
+dpatil,137.110.161.169,dpatil,wolfe.freenode.net
+dwang,unaffiliated/dwang,Got ZNC?,asimov.freenode.net
+chuchu,137.110.161.169,asdf,barjavel.freenode.net
+rhaps0dy,81.4.122.176,Adria,verne.freenode.net
+ayayron,137.110.161.169,ayayron,verne.freenode.net
+spinda,gateway/web/irccloud.com/x-awyuiqtnrokmrufd,Michael Smith,wilhelm.freenode.net
+jle`,unaffiliated/mstksg,= "Justin Le",sinisalo.freenode.net
+parakeetfour,137.110.161.169,parakeetfour,weber.freenode.net
+SigmaWP,Wikipedia/Lowercase-Sigma,Not a dog.,tepper.freenode.net
+rlee,137.110.161.169,rlee,card.freenode.net
+cerealbot,unaffiliated/rray/bot/cerealbot,Cerea L. Bot,weber.freenode.net
+metakirby5,unaffiliated/metakirby5,Ethan,weber.freenode.net
+suicide_leaf,137.110.161.169,suicide_leaf,asimov.freenode.net
+gomjabbar,unaffiliated/anti-mttr/x-9384728,gomjabbar,adams.freenode.net
+catern,catern.com,catern,niven.freenode.net
+nivekuil,168.235.94.90,no,weber.freenode.net
+tallakahath,dhcp-179-37.materials.ucsb.edu,liz,barjavel.freenode.net
+ac_,unaffiliated/ac-/x-6675398,ayy seeee,tepper.freenode.net
+JamGobbar,unaffiliated/anti-mttr/x-9384728,GomJabbar,rajaniemi.freenode.net
+djcapelis,blender/coder/DJCapelis,DJ Capelis,orwell.freenode.net
+Guest7281,2604:180:1::9023:cfba,foray,niven.freenode.net
+Ed__,137.110.161.169,Ed__,adams.freenode.net
+ljrbot,2001:470:88ff:2e::1,Supybot 0.83.4.1,rajaniemi.freenode.net
+aoseki,unaffiliated/akaseki,Tim,card.freenode.net
+nycloud,lykos/dev/nyuszika7h,nyuszika7h,sinisalo.freenode.net
+Janthran,bad.gateway.firrre.com,Janthran,karatkievich.freenode.net
+luke-jr,unaffiliated/luke-jr,Luke Dashjr,hitchcock.freenode.net
+okuu,unaffiliated/pyon,pyon,orwell.freenode.net
+Moyst,212-149-200-72.bb.dnainternet.fi,Möyst,leguin.freenode.net
+nyu,lykos/dev/nyuszika7h,nyuszika7h,verne.freenode.net
+cloud,lykos/rt,While you're dying I'll be still alive~,adams.freenode.net
+buddha,frank2.net,buddha,wolfe.freenode.net
+Venusaur,wikipedia/Antonio-Lopez,ndsdjs,tepper.freenode.net
+beaky,2a03:b0c0:0:1010::123:5003,beaky,karatkievich.freenode.net
+justanotheruser,unaffiliated/justanotheruser,Justan,adams.freenode.net
+ChanServ,services.,Channel Services,services.
+Nightmare,unaffiliated/thetfef,Kim,sinisalo.freenode.net
+eph,unaffiliated/spaceship,ephy,adams.freenode.net
+dschoepe,unaffiliated/dschoepe,Daniel Schoepe,barjavel.freenode.net
+Saizan,li265-65.members.linode.com,Andrea Vezzosi,wilhelm.freenode.net
+daherb,cse-principia.cse.chalmers.se,Herbert Lange,adams.freenode.net
+vlopez,schumpeter.ekb.sgsnet.se,vlopez,rajaniemi.freenode.net
+Stealth,sourcemage/archon/stealth,V,rajaniemi.freenode.net
+ChanServ,services.,Channel Services,services.
+ismaell,sourcemage/guru/ismaell,Ismael Luceno,karatkievich.freenode.net
+tty`_,AGrenoble-652-1-425-32.w90-42.abo.wanadoo.fr,Unknown,barjavel.freenode.net
+tty`,AGrenoble-652-1-425-32.w90-42.abo.wanadoo.fr,Unknown,barjavel.freenode.net
+spastor_,217.167.1.65,spastor,weber.freenode.net
+maheus,217.167.1.65,purple,hitchcock.freenode.net
+ChanServ,services.,Channel Services,services.
+zeus,gnu/savannah/team/zeus,Jonathan Gonzalez V.,barjavel.freenode.net
+kubot,unaffiliated/m4v/bot/kubot,Spanish Infobot: http://wiki.ubuntu.com/m4v/kubot,barjavel.freenode.net
+ChanServ,services.,Channel Services,services.
+ubuntulog2,elderberry.canonical.com,log bot:: contact rt@ubuntu.com,barjavel.freenode.net
+ulimit,v22014122527421861.yourvserver.net,Stephan Duehr,card.freenode.net
+ErikCorry_,gateway/web/irccloud.com/x-tjmjfnogrjoezyof,Erik Corry,wilhelm.freenode.net
+gkalsi,nat/google/x-dawrumfdbsidalbn,gkalsi,rajaniemi.freenode.net
+travisg,gateway/web/irccloud.com/x-gdpzgzydvxmxxwqw,Travis Geiselbrecht,niven.freenode.net
+geist,tkgeisel.com,Travis Geiselbrecht,sinisalo.freenode.net
+gsk,158.54.196.104.bc.googleusercontent.com,kalsig,card.freenode.net
+Bryanstein,shellium/admin/bryanstein,Bryan Smith,asimov.freenode.net
+el_seano,freegeek/el-seano,It's Spanish for 'The Sean',wolfe.freenode.net
+Dan9186,c-50-186-55-80.hsd1.or.comcast.net,Dan9186,card.freenode.net
+reidab,198.199.114.143,Reid Beels,asimov.freenode.net
+nickc2,107.170.252.81,nickc,niven.freenode.net
+swoolley,sourcemage/wizard/swoolley,Seth A Woolley,tepper.freenode.net
+JacksonT,c-71-193-220-135.hsd1.wa.comcast.net,Got ZNC?,adams.freenode.net
+dan1,45.125.244.61,dan,orwell.freenode.net
+boud,calcifer.xs4all.nl,Boudewijn Rempt,hitchcock.freenode.net
+schumaml,nat/redhat/x-kzhzksdgfeneccup,Unknown,card.freenode.net
+kxra,fsf/emeritus/kxra,Kẏra,rajaniemi.freenode.net
+JanC,lugwv/member/JanC,Jan Claeys,hitchcock.freenode.net
+Skruff,gateway/shell/elitebnc/x-jgcqpyqhilgowdjv,I'm part of the Elite... EliteBNC,orwell.freenode.net
+BaneAliens,user-0c8ghk4.cable.mindspring.com,Uncle Donny,wolfe.freenode.net
+geordi,v.eelis.net,geordi,adams.freenode.net
+osse,zsh/user/osse,osse,sinisalo.freenode.net
+sanett,202.119.43.93,scott,rajaniemi.freenode.net
+cameronfr,2604:a880:1:20::1e5:900f,Cameron,karatkievich.freenode.net
+aombk,unaffiliated/aombk,aombk,niven.freenode.net
+Albori,67-43-240-22.fidnet.com,Albori,weber.freenode.net
+funnel,unaffiliated/espiral,funnel,hitchcock.freenode.net
+tuxdev,unaffiliated/tuxdev,Timothy Goya,card.freenode.net
+Laserbeak,2601:14d:4300:3acc:287e:ecc5:34aa:d80a,realname,karatkievich.freenode.net
+vralphv,d137-186-58-40.abhsia.telus.net,U-DESKTOP-EELFRNV\vralp,weber.freenode.net
+snowkidind,pool-108-18-200-48.washdc.fios.verizon.net,Textual User,hitchcock.freenode.net
+_DanN_,85.159.104.215,Miroslav W. Bush,tepper.freenode.net
+slidercrank,unaffiliated/slidercrank,realname,wilhelm.freenode.net
+_sfiguser,93-35-253-193.ip57.fastwebnet.it,realname,weber.freenode.net
+Xionaba,h83-209-195-57.cust.se.alltele.net,...,roddenberry.freenode.net
+oldtopman,unaffiliated/oldtopman,iAnn,hitchcock.freenode.net
+refbot,unaffiliated/moto-chan/bot/refbot,MotoBot,wolfe.freenode.net
+FMan,dsl-kvlbrasgw2-50dcc3-5.dhcp.inet.fi,FMan /Tropyx,hitchcock.freenode.net
+SpaghettiCat,ks23645.kimsufi.com,Spaghet,card.freenode.net
+twainwek,104.233.121.62,twainwek,karatkievich.freenode.net
+electrostat,unaffiliated/electrostat,daglyfe,leguin.freenode.net
+Stimpy,546B9624.cm-12-4c.dynamic.ziggo.nl,...,asimov.freenode.net
+xaxxon,c-24-18-184-142.hsd1.wa.comcast.net,Zac,wolfe.freenode.net
+z16,ffxidb.com,Stjepan Bakrac,adams.freenode.net
+predkambrij,v22015012619822703.yourvserver.net,developer,verne.freenode.net
+uksio,p20030069AF37E543645919780E7367E7.dip0.t-ipconnect.de,uxio,wilhelm.freenode.net
+Dark_Fox,204.14.239.53,Dark Fox,weber.freenode.net
+slixpk,slix.io,Peter Kowalczyk,wilhelm.freenode.net
+IceKarma,wikipedia/IceKarma,Don't cry, you'll still be loved...,orwell.freenode.net
+moffz0r,14-201-5-120.static.tpgi.com.au,moffz0r,niven.freenode.net
+louiz,ciboule.louiz.org,louiz,asimov.freenode.net
+Caelum,cachemiss.com,Rafael Kitover,karatkievich.freenode.net
+anonnumberanon,unaffiliated/anonnumberanon,Neal Rame,orwell.freenode.net
+TikityTik,162.223.44.49,realname,wolfe.freenode.net
+bigpet,gateway/web/irccloud.com/x-zinqbqcysijpsfag,Peter Tissen,sinisalo.freenode.net
+smokex_,gateway/shell/panicbnc/x-vrcpoxmpjflaqytj,smokex,rajaniemi.freenode.net
+quaz0r,c-67-183-243-24.hsd1.wa.comcast.net,quaz,weber.freenode.net
+condy,unaffiliated/condy,爱利的好爸爸,tepper.freenode.net
+kraft,gateway/shell/blinkenshell.org/x-yzagzsggfjafsanb,Na,orwell.freenode.net
+caipora,unaffiliated/caipora,weechat,adams.freenode.net
+lhtseng,gateway/web/irccloud.com/x-iwpvlawkrbnwkwxd,Linghua Tseng,karatkievich.freenode.net
+Elronnd,znc.dank.ninja,Elronnd,niven.freenode.net
+edwinjarvis,unaffiliated/edwinjarvis,Edwin Jarvis,orwell.freenode.net
+KaliLinuxGR,unaffiliated/kalilinuxgr,realname,asimov.freenode.net
+djinni`,68.ip-149-56-14.net,djinni,weber.freenode.net
+baum,2a05:8b81:1000:3d::dc48,baum,wilhelm.freenode.net
+justanotheruser,unaffiliated/justanotheruser,Justan,adams.freenode.net
+pedrovian,8.27.210.16,realname,adams.freenode.net
+Kaslai,unaffiliated/kaslai,Kaslai,niven.freenode.net
+dindinx,unaffiliated/dindinx,DindinX,orwell.freenode.net
+minus,mnus.de,m!nus,rajaniemi.freenode.net
+Galik,unaffiliated/galik,Galik,leguin.freenode.net
+tuxdev_,unaffiliated/tuxdev,tim,weber.freenode.net
+M-ou-se,circle.m-ou.se,m-ou-se,asimov.freenode.net
+navid,unaffiliated/navid,navid,wolfe.freenode.net
+heatmis3r,gateway/web/irccloud.com/x-eubzfpwykubbuyaz,heatmis3r,wilhelm.freenode.net
+wickedmic,wickedmic.com,bob,card.freenode.net
+mads-,chicken.whatbox.ca,Unknown,verne.freenode.net
+Magiobiwan,unaffiliated/magiobiwan,Jeff,asimov.freenode.net
+spling,unaffiliated/spling,spling,orwell.freenode.net
+obiwahn,pdpc/supporter/student/obiwahn,Jan Christoph Uhde,card.freenode.net
+nealshire,unaffiliated/nealshire,Neal,hitchcock.freenode.net
+andreyv,unaffiliated/andreyv,Andrey,wilhelm.freenode.net
+Kuukunen,kuukunen.net,aki,orwell.freenode.net
+WizJin,gateway/shell/fnordserver.eu/x-wdmakfakfpvvoiha,WizJin,karatkievich.freenode.net
+sujeet,unaffiliated/freeboson,sujeet,orwell.freenode.net
+fogb,81-174-47-172.v4.ngi.it,Roberto Orsini (roberto@orsini.com),rajaniemi.freenode.net
+suy,78.47.119.89,Alejandro Exojo,hitchcock.freenode.net
+Gentle,quassel/contributors/gentle,Ramon Klass,wilhelm.freenode.net
+micronn,2a03:b0c0:3:d0::3c:d001,:),niven.freenode.net
+angrysiamese,50-207-9-18-static.hfc.comcastbusiness.net,erik,barjavel.freenode.net
+fyrril,2605:a601:7014:1800:744c:7fc9:503f:5973,realname,karatkievich.freenode.net
+password2,unaffiliated/password2,password,karatkievich.freenode.net
+Anja,49.50.252.82,Anja,hitchcock.freenode.net
+unreal,unaffiliated/unreal,unreal,adams.freenode.net
+tminus36,pdpc/supporter/student/tminus36,Unknown,wolfe.freenode.net
+bmcorser,gateway/web/irccloud.com/x-jyybolnxsvxplygv,BM Corser,wilhelm.freenode.net
+karthyk,2620:1e8:2:1::2fa,karthyk,wolfe.freenode.net
+muep,muep.iki.fi,Joonas Saraj�rvi,tepper.freenode.net
+TinoDidriksen,tinodidriksen.com,Tino Didriksen,wilhelm.freenode.net
+thegameg_,39.ip-51-254-35.eu,Francis Visoiu Mistrih,verne.freenode.net
+Immune,47.145.46.247,realname,weber.freenode.net
+h01,2001:4800:7810:512:be76:4eff:fe05:b384,.,karatkievich.freenode.net
+glenfe,unaffiliated/glenfe,realname,tepper.freenode.net
+klesk,unaffiliated/klesk,klesk,kornbluth.freenode.net
+ohama,cicolina.org,Unknown,adams.freenode.net
+sparetire,unaffiliated/sparetire,spare,orwell.freenode.net
+chasmo77,158.183-62-69.ftth.swbr.surewest.net,Al Turing,wilhelm.freenode.net
+Tii,stevie-ray.me,Stevie,rajaniemi.freenode.net
+jaagr,unaffiliated/jaagr,jaagr,tepper.freenode.net
+eadthem,pdpc/supporter/active/eadthem,ead,tepper.freenode.net
+ferdna,cpe-69-23-141-130.elp.res.rr.com,ferdna,tepper.freenode.net
+Karethoth,89.33.6.195,Karet,hitchcock.freenode.net
+cato,i.xnis.de,cato,adams.freenode.net
+Stryyker,about/windows/staff/stryyker,stryyker1,adams.freenode.net
+mkramer,c-76-30-207-152.hsd1.tx.comcast.net,Adium User,hitchcock.freenode.net
+Batholith,unaffiliated/ninjapenguin,Batholith,karatkievich.freenode.net
+karalaine,unaffiliated/karalaine,Mikko,tepper.freenode.net
+SlashLife,botters/slashlife,Simon Stienen,adams.freenode.net
+Elysion,124-171-185-20.dyn.iinet.net.au,Elysion,roddenberry.freenode.net
+badone,nat/redhat/x-zralmxzplfbhbtle,Brad Hubbard,hitchcock.freenode.net
+daedric,62-210-211-7.rev.poneytelecom.eu,S.",niven.freenode.net
+Nik05,unaffiliated/nik05,Nik05,kornbluth.freenode.net
+Orbitrix,c-76-127-14-226.hsd1.nm.comcast.net,...,karatkievich.freenode.net
+mijowh,75.97.236.147.res-cmts.leh.ptd.net,realname,karatkievich.freenode.net
+Haxxa,120.147.48.206,Harrison,weber.freenode.net
+Betal,unaffiliated/betal,Betal,wilhelm.freenode.net
+LoneHerm_,199.231.245.197,LoneHermit,verne.freenode.net
+nullniverse,unaffiliated/nullniverse,realname,rajaniemi.freenode.net
+nilspin,2a00:d880:3:1::75e1:a4f,nilay,niven.freenode.net
+Rutix`away,april-fools/2013/runnerup/Rutix,Rutix,hitchcock.freenode.net
+bove,gateway/web/irccloud.com/x-dkppegfxowcvsmwv,Bengt Ove Sannes,adams.freenode.net
+Freaky_G33k,1.ipv6.aegir.superbnc.com,SuperBNC - https://SuperBNC.com,wilhelm.freenode.net
+Chris,spy/chris,Chris,rajaniemi.freenode.net
+APic,apic.name,A. Pic. - my name since YOLD 3149,card.freenode.net
+Henoxek,henoxek.ru,Henoxek,niven.freenode.net
+telex,freeshell.de,telex,tepper.freenode.net
+Nickeeh,bulbasaur.sjorsgielen.nl,Nick Overdijk,niven.freenode.net
+MK,unaffiliated/mk/x-7191235,MK,wilhelm.freenode.net
+dropaty,g71034.upc-g.chello.nl,dropaty,adams.freenode.net
+r00twrh,73.44.33.86,r00tWearsRedHats,wilhelm.freenode.net
+mackal,pool-96-237-144-12.bstnma.fios.verizon.net,Michael Cook,hitchcock.freenode.net
+LetoThe2nd,s15387740.onlinehome-server.info,Josef Holzmayr,verne.freenode.net
+c0njugate,CPE-110-148-157-114.vxl8.lon.bigpond.net.au,realname,card.freenode.net
+jinghou,unaffiliated/jinghou,...,asimov.freenode.net
+lecture01,2a00:c1a0:8502:e300:12c9:2201:1:1,lecture01,sinisalo.freenode.net
+strtok,thales.strtok.net,tokie,card.freenode.net
+morfin,morfin.telenet.ru,...,verne.freenode.net
+ubsan,frozen.darkfox.id.au,ubsan,leguin.freenode.net
+Deacydal,unaffiliated/deacyde,Notsure,wilhelm.freenode.net
+GrecKo,195-154-253-46.rev.poneytelecom.eu,GrecKo,adams.freenode.net
+alyptik,unaffiliated/alyptik,https://alyp.tk/afraid.gif,verne.freenode.net
+markelite,gateway/shell/panicbnc/x-mvwzqsznmzjauohf,Mark,wolfe.freenode.net
+Joonaa,46.101.173.77,Joona,barjavel.freenode.net
+JSharpe,104.238.169.52,realname,rajaniemi.freenode.net
+hs_,c-24-18-196-90.hsd1.wa.comcast.net,hs_,weber.freenode.net
+mad_enz,2607:f090:488d:2ab:ada3:1dd:e762:d024,realname,karatkievich.freenode.net
+RoyBellingan,89.101.131.177,Roy,karatkievich.freenode.net
+thib,wikimedia/Thibaut120094,Thibaut,weber.freenode.net
+Moult_,static.88-198-98-200.clients.your-server.de,Dion Moult,asimov.freenode.net
+spheromak,gateway/web/irccloud.com/x-pfutmenspuzwlxjp,Jesse Nelson,rajaniemi.freenode.net
+Neuron1k,156.ip-164-132-42.eu,neuron1k,asimov.freenode.net
+cynicalcats,unaffiliated/cynicalcats,bp,verne.freenode.net
+dh1tw,15.red-83-46-61.dynamicip.rima-tde.net,na,asimov.freenode.net
+tharuin,gateway/web/irccloud.com/x-dxxgjyxogevtvfnm,tharuin,verne.freenode.net
+uboot__,x4dba1e99.dyn.telefonica.de,allegro,card.freenode.net
+Kaaml,46.101.237.93,Kaaml,hitchcock.freenode.net
+sim642,unaffiliated/sim642,Simmo Saan,wilhelm.freenode.net
+Bigcheese,unaffiliated/bigcheese,Bigcheese,wilhelm.freenode.net
+fow,unaffiliated/fow,fow,asimov.freenode.net
+__marco,x2f5a657.dyn.telefonica.de,marco,asimov.freenode.net
+kloeri,freenode/staff/exherbo.kloeri,Bryan Ostergaard,orwell.freenode.net
+AndrewAlexMac,185.21.218.136,Andrew Macdonald,verne.freenode.net
+dyreshark,138.68.21.213,george,verne.freenode.net
+muep__,otitsun.oulu.fi,Joonas Sarajärvi,orwell.freenode.net
+Pilum,vps-85.201.170.217.stwvps.net,JKM,wolfe.freenode.net
+mikroflops,178.174.137.46,plux,tepper.freenode.net
+nacon,unaffiliated/nacon,Daniel,weber.freenode.net
+ajaniMember,45.55.137.32,Got ZNC?,verne.freenode.net
+Madars,unaffiliated/madars,Madars,karatkievich.freenode.net
+salamanderrake,2605:a000:1229:c036:e1e7:7a87:804c:9aaa,Salamander Purake,wolfe.freenode.net
+Hobbyboy,gateway/shell/panicbnc/x-fqbyrfcjevawlgcx,Andrew,adams.freenode.net
+Defcronyke,88.143.197.104.bc.googleusercontent.com,Defcronyke,hitchcock.freenode.net
+darksider3,shaula.uberspace.de,darksider3,verne.freenode.net
+Enthralled,unaffiliated/dxdydz,Enthraled,orwell.freenode.net
+_stowa,static.177.80.201.138.clients.your-server.de,flieger,hitchcock.freenode.net
+boos,usa.boos.core-dumped.info,boos,hitchcock.freenode.net
+oknedrupa,193.109.118.94,andrii,weber.freenode.net
+Jengu,ec2-54-255-130-255.ap-southeast-1.compute.amazonaws.com,Ande,card.freenode.net
+Smjert,unaffiliated/smjert,Got ZNC?,weber.freenode.net
+pwcjr,pool-74-96-89-148.washdc.fios.verizon.net,pwcjr,leguin.freenode.net
+_d-,unaffiliated/diyar,realname,orwell.freenode.net
+Moyst,212-149-200-72.bb.dnainternet.fi,Möyst,leguin.freenode.net
+Oxyd,pdpc/supporter/student/oxyd,Ondra,rajaniemi.freenode.net
+meandrain,89.39.95.149,meandrain,leguin.freenode.net
+FabTG_,142.ip-37-59-108.eu,ftg,karatkievich.freenode.net
+cbreak,77-58-73-149.dclient.hispeed.ch,realcbreak,kornbluth.freenode.net
+sfix,unaffiliated/sfix,Gary Tierney,asimov.freenode.net
+KingRodian,75.231.164.82.customer.cdi.no,Unknown,niven.freenode.net
+Drathnix,unaffiliated/drathnix,Got ZNC?,asimov.freenode.net
+jsgrant-,71-11-142-172.dhcp.stls.mo.charter.com,Joshua S. Grant,verne.freenode.net
+rafalcpp,84-10-11-234.static.chello.pl,Rafal Cpp,tepper.freenode.net
+vdamewood,unaffiliated/vdamewood,Vincent Damewood,rajaniemi.freenode.net
+Lowl3v3l,dslb-094-218-188-141.094.218.pools.vodafone-ip.de,realname,adams.freenode.net
+a3Dman,unaffiliated/a3dman,3Dman,wolfe.freenode.net
+Moto-chan,unaffiliated/moto-chan,Who knows,wolfe.freenode.net
+Xybol_,72.49.246.234,brian,orwell.freenode.net
+xe`,libreelec/staff/xe,xe xe,karatkievich.freenode.net
+malign_,nat1-mtl03.vmpanel.net,marko,asimov.freenode.net
+prooz,eddie.slaskete.net,Unknown,weber.freenode.net
+pk12,163.172.210.79,pk12,adams.freenode.net
+damian,unaffiliated/damian,damian,leguin.freenode.net
+gv1222,158.69.174.44,yes,verne.freenode.net
+ChanServ,services.,Channel Services,services.
+xybol,72.49.246.234,brian,rajaniemi.freenode.net
+osipovas,gateway/web/irccloud.com/x-wrtisixdsgjxksop,Motiejus Osipovas,wilhelm.freenode.net
+dan6a___,gateway/web/irccloud.com/x-dqjjyrnsnvrisvgo,Dan J,wilhelm.freenode.net
+red_racer12,gateway/web/irccloud.com/x-pibdrvezivvqzuhx,green_racer33,leguin.freenode.net
+Benjojo,srv-83.nsa.me.uk,Ben Cox,wilhelm.freenode.net
+clippix2,2a01:4f8:191:6134::2,clippix,niven.freenode.net
+zekrioca,sysifos.cs.umu.se,realname,rajaniemi.freenode.net
+ldu4,nat/ibm/x-atspjmehyjxtauvy,Laurent Dufour,verne.freenode.net
+rburkholder,199.68.193.54,realname,karatkievich.freenode.net
+zerkalo,ny1.hashbang.sh,myricae,adams.freenode.net
+decay,87-236-47-212.rev.cloud.scaleway.com,decay,adams.freenode.net
+jcline,fedora/jcline,Jeremy Cline,wolfe.freenode.net
+aggelos_,hppc774.few.vu.nl,Angelos Oikonomopoulos,leguin.freenode.net
+openvz-irc,199.115.104.41,openvz-irc,wolfe.freenode.net
+telegram_bot,patchwork.criu.org,Telegram IRC Bot,wilhelm.freenode.net
+hallyn,h2.hallyn.com,irc acct,barjavel.freenode.net
+mdupont,pool-173-61-88-6.cmdnnj.fios.verizon.net,realname,leguin.freenode.net
+adrianr,rhlx01.hs-esslingen.de,Adrian Reber,wilhelm.freenode.net
+eater,tamako.eoc.io,eater.,niven.freenode.net
+fusl,unaffiliated/fusl,fusl,adams.freenode.net
+[b__b],ec2-54-85-45-223.compute-1.amazonaws.com,BotBot.me,wolfe.freenode.net
+tych0,162.243.9.74,Tycho Andersen,wilhelm.freenode.net
+PerLycke,carrot.cybolabs.co.uk,PerLycke,niven.freenode.net
+chenxiaolong,carrot.cybolabs.co.uk,chenxiaolong,rajaniemi.freenode.net
+dexter93,unaffiliated/dexter93,Dexter,leguin.freenode.net
+rirozizo,unaffiliated/rirozizo,?,niven.freenode.net
+elijah,gateway/web/irccloud.com/x-gohrykoczswvdhrj,Elijah Lynn,wolfe.freenode.net
+cyberlard,li1177-42.members.linode.com,cyberlard,sinisalo.freenode.net
+GroovyCarrot,gateway/web/irccloud.com/x-mtecawbsmzjmqrls,Jake Wise,wilhelm.freenode.net
+NomadOfNorad,2602:306:33bd:a150:b148:83d4:1138:6d95,David C Hall,karatkievich.freenode.net
+osgrid,plaza09.osgrid.org,osgrid,karatkievich.freenode.net
+w-t-h_,72.67.52.110,New Now Know How,wilhelm.freenode.net
+Alynna,2601:282:c01:9d19::1,Alynna O'onthrera Trypnotk,wilhelm.freenode.net
+Ken_Savage,50-26-173-69.abilcmtk01.res.dyn.suddenlink.net,The Chat cool people use,rajaniemi.freenode.net
+knotwork__,99.192.95.6,Mark Metson,tepper.freenode.net
+jakdaniels,host3-2.ateb.co.uk,Jak Daniels,adams.freenode.net
+MarcusLlewellyn,cpe-75-86-39-113.wi.res.rr.com,Marcus Llewellyn,niven.freenode.net
+kimiko,80-186-212-132.elisa-mobile.fi,purple,asimov.freenode.net
+dmiles,c-24-20-102-245.hsd1.wa.comcast.net,...,adams.freenode.net
+Aramis^,c-73-85-88-184.hsd1.fl.comcast.net,someone,asimov.freenode.net
+SianaGea1z,84.200.248.46,Siana Gearz,asimov.freenode.net
+nebadon,c-69-248-63-104.hsd1.nj.comcast.net,Nebadon,wolfe.freenode.net
+kyle_brynner,ALyon-158-1-7-147.w86-209.abo.wanadoo.fr,Yves Lécossois,card.freenode.net
+czwolf,2607:5300:60:1176::1,Xchat User,wilhelm.freenode.net
+Fritigern,c-67-170-30-149.hsd1.wa.comcast.net,44,8Fritigern,card.freenode.net
+Dev_Random,d104-157-29-42.abhsia.telus.net,realname,wilhelm.freenode.net
+misterblue,c-73-37-76-74.hsd1.or.comcast.net,Mister Blue,hitchcock.freenode.net
+ChanServ,services.,Channel Services,services.
+CrasherRob,cpe-67-243-78-190.hvc.res.rr.com,CrasherRob,card.freenode.net
+ChristophBalhaus,h2516096.stratoserver.net,ChristophBalhaus,verne.freenode.net
+JimJackson,gateway/web/freenode/ip.47.146.186.144,47.146.186.144 - http://webchat.freenode.net,herbert.freenode.net
+JeffKelley,119.ip-151-80-154.eu,JeffKelley,tepper.freenode.net
+DamianZhaoying,181.169.226.142,Damian Zhaoying,wilhelm.freenode.net
+hazypixels,ns504960.ip-198-27-67.net,t,verne.freenode.net
+[SLB],unaffiliated/slabua,@slabua,tepper.freenode.net
+OtakuMegane,104-60-250-172.lightspeed.tukrga.sbcglobal.net,OtakuMegane,wolfe.freenode.net
+Taoki,93.113.162.37,4KVIrc 4.9.1 Aria http://kvirc.net/,asimov.freenode.net
+ssm2017,car06-2-82-236-28-172.fbx.proxad.net,ssm2017__,asimov.freenode.net
+Ubit,bl17-77-17.dsl.telepac.pt,Does it matter?,weber.freenode.net
+dahlia,2607:5300:60:1c26::1,,wolfe.freenode.net
+Cueball,11.21.169.217.in-addr.arpa,lee,wolfe.freenode.net
+Einherjer,69.64.40.177,Viking,leguin.freenode.net
+danbanner,unaffiliated/danbanner,unknown,rajaniemi.freenode.net
+dangranos,hekate.pc-logix.com,dangranos,sinisalo.freenode.net
+dseomn,209-6-43-168.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com,David Mandelberg,leguin.freenode.net
+YouNeverKnow,youneverknow.tk,You Never Know,niven.freenode.net
+kyan,cpe-74-78-187-9.maine.res.rr.com,realname,card.freenode.net
+ChanServ,services.,Channel Services,services.
+ochosi,xfce/core-developer/ochosi,Simon Steinbeiss,wilhelm.freenode.net
+folays,195-154-188-89.rev.poneytelecom.eu,Unknown,asimov.freenode.net
+carmie,toph.virgule.net,carmie,wolfe.freenode.net
+newt0n,venus.meta-planets.net,Newton,karatkievich.freenode.net
+AlexAltea,phi.nz,Alexandro Sanchez,barjavel.freenode.net
+madaal,2604:a880:800:10::1a50:8001,madaal,karatkievich.freenode.net
+zodbot,fedora/bot/zodbot,Limnoria installed on 2016-06-11T19-31-21,orwell.freenode.net
+Rhea,ip-94-112-108-171.net.upcbroadband.cz,Radka Janek,wolfe.freenode.net
+omajid,38.104.156.250,Omair Majid,wolfe.freenode.net
+moto-timo,fsf/member/moto-timo,ttorling,leguin.freenode.net
+jflory7,fedora/jflory7,Justin W. Flory,card.freenode.net
+ChanServ,services.,Channel Services,services.
+pcreech,nat/redhat/x-prbdkfgamspezbsw,Patrick Creech,adams.freenode.net
+skamath,fedora/skamath,Sachin S. Kamath,orwell.freenode.net
+tpokorra,237.67.238.89.in-addr.arpa.manitu.net,Timotheus Pokorra,sinisalo.freenode.net
+rkieley,blk-137-84-54.eastlink.ca,Roderick Kieley,adams.freenode.net
+FranciscoD,pdpc/supporter/active/franciscod,Ankur Sinha,hitchcock.freenode.net
+condorito_bot,triton120.startdedicated.de,condorito,niven.freenode.net
+dalmine,triton120.startdedicated.de,Rino Rondan villadalmine@gmail.com,adams.freenode.net
+ChanServ,services.,Channel Services,services.
+Korvin,concrete5/79063/Korvin,Korvin,karatkievich.freenode.net
+d1str0_,2604:a880:1:20::8bb:1,Brady Sullivan,niven.freenode.net
+Mnkras,concrete5/781/Mnkras,Michael krasnow,adams.freenode.net
+Mnkras-Derp,phab.krasnow.me,Michael Krasnow,weber.freenode.net
+Elieux,77.93.202.79,purple,asimov.freenode.net
+praseodym,ip82-139-74-249.lijbrandt.net,Mark,kornbluth.freenode.net
+jvw,wolffelaar.nl,Jeroen van Wolffelaar,niven.freenode.net
+johnLate,lexington.scnr.net,johnLate,weber.freenode.net
+robokop,pug.rob-franken.nl,Rob Franken,adams.freenode.net
+Jaxan,bulbasaur.sjorsgielen.nl,Joshua Moerman,niven.freenode.net
+SuprDewd,2001:41d0:8:1754::,Bjarki �g�st Gu�mundsson,wilhelm.freenode.net
+ck_,plskthx.org,ck,kornbluth.freenode.net
+bulsa11,2a02:810d:8abf:d936:222:4dff:feaa:9160,purple,adams.freenode.net
+meisterT,mail.bytecast.de,Tobias Werth,leguin.freenode.net
+eldering,anyon.soleus.nu,Jaap Eldering,verne.freenode.net
+jgadelange,546A5619.cm-12-3b.dynamic.ziggo.nl,Jeffrey,niven.freenode.net
+DerBaer,nat/friedrich-alexander/x-tiqubbaxpczwemfk,Michael Baer,verne.freenode.net
+thijs_,tetraquark.soleus.nu,Thijs Kinkhorst,wolfe.freenode.net
+ubergeek42,linux.ubergeek42.com,Keith Johnson,wilhelm.freenode.net
+wbo,192.241.190.134,Evan Hughes,asimov.freenode.net
+yawkat,cats.coffee,Jonas Konrad,wilhelm.freenode.net
+Yamakaja,vps.yamakaja.tech,Yamakaja,leguin.freenode.net
+Drakon,cpc6-gran4-2-0-cust135.12-1.cable.virginm.net,drakon,verne.freenode.net
+djinni,68.ip-149-56-14.net,djinni,karatkievich.freenode.net
+niloc132,c-73-228-251-23.hsd1.mn.comcast.net,Colin Alworth,wolfe.freenode.net
+zzxc,unaffiliated/zzxc,null,asimov.freenode.net
+oxymor00n,unaffiliated/oxymor00n,Tom Rauchenwald,wilhelm.freenode.net
+auke-,31-151-78-225.dynamic.upc.nl,Auke Schrijnen,card.freenode.net
+jnehlmeier,gateway/shell/firrre/x-pbdzjuufmloepiqg,Jens Nehlmeier,karatkievich.freenode.net
+\monster\,CPE107bef40cdd9-CM0c473d755d20.cpe.net.cable.rogers.com,Remember, there is no spoon,leguin.freenode.net
+xjrn,2601:642:4500:1d54:28ff:9e39:495b:d0fa,New Now Know How,karatkievich.freenode.net
+Thev00d00_,89.206.161.76,Thev00d00,barjavel.freenode.net
+rabbit,195-154-170-10.rev.poneytelecom.eu,Antonin Bonte,adams.freenode.net
+Thinkofname,oops.i.broke.thinkofdeath.uk,Thinkofname,verne.freenode.net
+linuxmodder,fedora/linuxmodder,linuxmodder,sinisalo.freenode.net
+javabot,unaffiliated/javabot,PircBotX 2.1 Java IRC bot - github.com/thelq/pircb,barjavel.freenode.net
+rxo_,li1259-36.members.linode.com,rxo,orwell.freenode.net
+lukaszx0,gateway/web/irccloud.com/x-xegczdjtiibhqnjf,Łukasz Strzałkowski,wilhelm.freenode.net
+Essington,unaffiliated/essington,Essington,karatkievich.freenode.net
+Muzer,cpc96772-rdng27-2-0-cust294.15-3.cable.virginm.net,Murray Colpman,kornbluth.freenode.net
+conan_,mdproctor.plus.com,Mark Proctor,niven.freenode.net
+semteX_,static.88-198-4-39.clients.your-server.de,Unknown,orwell.freenode.net
+wooy,unaffiliated/wooy,wooy,weber.freenode.net
+D9,104.236.71.143,Paul",karatkievich.freenode.net
+tazle,kapsi.fi,Tuure Laurinolli,leguin.freenode.net
+SJr,S0106c43dc7a31386.vf.shawcable.net,Steve,leguin.freenode.net
+perbl_,82.116.79.87,perbl,niven.freenode.net
+nimrod_afk,cpc97944-croy24-2-0-cust250.19-2.cable.virginm.net,OnePunchMickey,leguin.freenode.net
+dsc_,pwned.systems,dsc,orwell.freenode.net
+starefossen,gateway/web/irccloud.com/x-uwgbbblkbaqhmmoe,Hans Kristian Flaatten,tepper.freenode.net
+Demented-Idiot,irc.agari.co,simon,tepper.freenode.net
+koobs,freebsd/developer/koobs,koobs,sinisalo.freenode.net
+petong,praise.jah.net,pete,rajaniemi.freenode.net
+swc|666_,Aircrack-NG/Friend,a white guy,weber.freenode.net
+n-st,unaffiliated/n-st,n.st,karatkievich.freenode.net
+infernix,unaffiliated/infernix,the funk phenomena,weber.freenode.net
+giany,shrek.x83.org,Unknown,card.freenode.net
+dogmatic69,164.177.154.223,dogmatic69,weber.freenode.net
+lungaro,2604:a880:0:1010::e5f:3001,Sig,karatkievich.freenode.net
+anrxc,sysphere.org,aic,verne.freenode.net
+sekh,unaffiliated/sekh,sekh,tepper.freenode.net
+Uzix_BNC,176.194.170.171,Eugene,barjavel.freenode.net
+Naphta,unaffiliated/naphta,Hill",wolfe.freenode.net
+Dr_Cain,hoho.se,Dr. Cain,wilhelm.freenode.net
+Dev0n,unaffiliated/dev0n,Dev0n,barjavel.freenode.net
+dino82,unaffiliated/dino82,din0-freenode,karatkievich.freenode.net
+hobbs,p3m/member/hobbs,Andrew,rajaniemi.freenode.net
+tty`_,AGrenoble-652-1-425-32.w90-42.abo.wanadoo.fr,Unknown,barjavel.freenode.net
+thematthewgreen,2001:4802:7801:103:fb0e:7549:ff20:45fd,Matthew Green,karatkievich.freenode.net
+Doo,coin.arnaudb.net,Doo,verne.freenode.net
+kjsnavely,gateway/web/irccloud.com/x-bdktsyvuobihdlrv,Kyle Snavely,leguin.freenode.net
+semy_,hg8.stardoll.com,pelle,verne.freenode.net
+modafinil,gateway/web/irccloud.com/x-krlluvlmnzkjvyos,sofuture,wolfe.freenode.net
+profall,gateway/web/irccloud.com/x-uswmnfrusxhdbdtq,profall,sinisalo.freenode.net
+wk-work,2a01:600:1:0:45c:fb88:c5f2:2906,wk,adams.freenode.net
+dddh,pdpc/supporter/active/dddh,Unknown,orwell.freenode.net
+tehsu,im.teh.su,tehsu,barjavel.freenode.net
+Dave,freenode/staff/dave2,Dave Wickham,hitchcock.freenode.net
+karstensrage,unaffiliated/karstensrage,Karsten S. Rage,karatkievich.freenode.net
+dyer,ec2-107-21-15-145.compute-1.amazonaws.com,John Dyer,asimov.freenode.net
+Mastermind1,bitsofcode.net,Mastermind,orwell.freenode.net
+olinkl,gateway/web/irccloud.com/x-hneocymjcrpaopkw,olinkl,hitchcock.freenode.net
+MacWinner,192.77.239.202,Textual User,tepper.freenode.net
+Chinorro,2a01:4f8:120:9332::2,Chino,niven.freenode.net
+mhite,kolohe.io,Matt Hite,tepper.freenode.net
+asm89,unaffiliated/asm89,Alexander,karatkievich.freenode.net
+Rockj,hodge.geekrevolution.net,Rockj,wilhelm.freenode.net
+wizonesolutions,drupal.org/user/739994/view,WizOne Solutions,sinisalo.freenode.net
+vangap,175.101.27.34,Pradeep Reddy Vanga,niven.freenode.net
+hyperized,unaffiliated/hyperized,hyper,karatkievich.freenode.net
+yoavz-,white.blackit.io,yoavz,asimov.freenode.net
+kamyl,unaffiliated/kamyl,real_name,hitchcock.freenode.net
+agile,whilecoding.com,v,hitchcock.freenode.net
+Guest71678,gateway/web/irccloud.com/x-caqcfqprpdrtzrsm,Martin Schürrer,weber.freenode.net
+calib0rx,darkstar.hikers.net,Unknown,hitchcock.freenode.net
+nickadam,gateway/web/irccloud.com/x-rczwytxlqkxundit,nickadam,wilhelm.freenode.net
+flaf,sumsum.flaf.fr,Francois Lafont,card.freenode.net
+idl0r,gentoo/developer/idl0r,Christian Ruppert,niven.freenode.net
+felixjet,96.red-79-152-236.dynamicip.rima-tde.net,realname,sinisalo.freenode.net
+souther,2605:6400:1:fed5:22:1ac:61c0:e24e,souther,wilhelm.freenode.net
+ploop,unaffiliated/ruukasu,ploop,barjavel.freenode.net
+nodulaire,ns321551.ip-94-23-9.eu,nodulaire,karatkievich.freenode.net
+timverhoeven,li689-53.members.linode.com,Tim Verhoeven,barjavel.freenode.net
+xsreality,168.235.68.44,XSReality,card.freenode.net
+ipsecguy,dslb-092-073-021-138.092.073.pools.vodafone-ip.de,Andreas,tepper.freenode.net
+jasondotstar,107.170.79.104,Jay Clark,barjavel.freenode.net
+gster,8.39.131.4,Greg,barjavel.freenode.net
+lynchc,modemcable104.104-176-173.mc.videotron.ca,imissmymind,card.freenode.net
+s_kunk,unaffiliated/s-kunk/x-5139101,s_kunk,wilhelm.freenode.net
+sknebel,2a01:4f8:201:2382::18,sknebel,adams.freenode.net
+AlHafoudh,echo.freevision.sk,Ahmed Al Hafoudh,wilhelm.freenode.net
+dupondje,artemis.dupie.be,Jean-Louis Dupond,niven.freenode.net
+donch,fuck.sysfault.net,donch_,karatkievich.freenode.net
+abyss,178.217.184.175,Unknown,weber.freenode.net
+dtrainor,ip98-165-225-115.ph.ph.cox.net,dtrainor,wilhelm.freenode.net
+andi,unaffiliated/fr00d,Andreas Nitsche,verne.freenode.net
+Nebraskka,178.62.130.190,Nebraskka,karatkievich.freenode.net
+Valfor,unaffiliated/mrpps,Valfor,verne.freenode.net
+ketralnis,reddit/admins/ketralnis,ketralnis,wolfe.freenode.net
+jayfk,p4FF5C1D2.dip0.t-ipconnect.de,jayfk,weber.freenode.net
+yosafbridge,68.ip-149-56-14.net,yosafbridge,orwell.freenode.net
+arachne,asterios.sysif.net,arachne,rajaniemi.freenode.net
+pk12,163.172.210.79,pk12,adams.freenode.net
+Therstrium,c-67-177-41-23.hsd1.ut.comcast.net,naji,card.freenode.net
+dcope,unaffiliated/dcope,Dylan Copeland,wolfe.freenode.net
+MadPsy,unaffiliated/madpsy-/x-5109697,MadPsy,card.freenode.net
+trepatudo,5.196.50.27,twitter.com/substanciadig,adams.freenode.net
+kvz,177.75.197.104.bc.googleusercontent.com,Kevin van Zonneveld,adams.freenode.net
+Tenhi,static-ip-69-64-50-196.inaddr.ip-pool.com,Kauan,sinisalo.freenode.net
+double-p,ns2.opc-club.de,what's REAL NAME?,leguin.freenode.net
+f3d,vingilot.zepl.net,f3d,adams.freenode.net
+Asara,unaffiliated/asara,Asara,verne.freenode.net
+zerick,irc.quassel.zerick.me,Erick Ocrospoma,adams.freenode.net
+nvucinic,unaffiliated/nvucinic,Neven Vucinic,weber.freenode.net
+dshoreman,unaffiliated/accidentalmonkey,Bob,niven.freenode.net
+piquadrat,gateway/web/irccloud.com/x-kvsyzoxktgipehjk,Benjamin Wohlwend,wilhelm.freenode.net
+tinyhippo,special-hostmask/tinyhippo,tinyhippo,adams.freenode.net
+ghoti,hq.experiencepoint.com,Paul Chvostek, http://www.it.ca/~paul/,weber.freenode.net
+jgornick,li373-224.members.linode.com,Joe Gornick,weber.freenode.net
+Raszh,64.182.114.36,Was I what you wanted me to be?,karatkievich.freenode.net
+crashev,droid.eu.org,Unknown,wolfe.freenode.net
+Marbug,ip-83-101-67-3.customer.schedom-europe.net,Unknown,card.freenode.net
+joevandyk,ec2-54-235-235-220.compute-1.amazonaws.com,Ubuntu,asimov.freenode.net
+OliverMT,gateway/web/irccloud.com/x-tlwpklzdhaffwqnr,Oliver Severin Tynes,wolfe.freenode.net
+DK2,rs000042.fastrootserver.de,DK2,karatkievich.freenode.net
+Pricey,2001:8b0:27b:8b20:ba27:ebff:feca:cef4,pricechilde,rajaniemi.freenode.net
+latez,insomnia.nyc,Hope in reality is the worst of all evils.,card.freenode.net
+rbott,6.spam.wtf,Rudolph Bott,sinisalo.freenode.net
+biax,unaffiliated/biax,biax,card.freenode.net
+davidstrauss,wikimedia/davidstrauss,David Strauss,karatkievich.freenode.net
+bern,marmot.wormnet.eu,Matt Bernstein,adams.freenode.net
+PhilSliderS,destiny.philsliders.eu,.,rajaniemi.freenode.net
+dan_j,gateway/web/irccloud.com/x-rjmkjifjduafgqig,Dan Journo,niven.freenode.net
+JStoker,unaffiliated/jstoker,JStoker,niven.freenode.net
+Inge-,cm-84.211.205.193.getinternet.no,inge,card.freenode.net
+bvi,bvi.wtf,bvi,barjavel.freenode.net
+InAnimaTe,gateway/web/irccloud.com/x-fvvpiyrmdksziqvq,inanimate,adams.freenode.net
+workthrick,2400:8901::f03c:91ff:fee4:bf3,mathrick,niven.freenode.net
+ML74,gateway/web/irccloud.com/x-jhjpxjtkdcdlqtid,Matthew Large,wilhelm.freenode.net
+arenstar,46.101.102.45,Arenstar,karatkievich.freenode.net
+ChanServ,services.,Channel Services,services.
+mcp,wolk-project.de,Marc-Christian Petersen,verne.freenode.net
+DogHackit,2605:e000:1117:8043:ba27:ebff:fedb:ba9f,Dog Hackit,wilhelm.freenode.net
+gph,irc.kvalitetslosen.net,Gaute Haugen,orwell.freenode.net
+tomaw,freenode/staff/tomaw,Tom Wesley <tomaw@freenode.net>,sagan.freenode.net
+dlloyd,2605:4500:2:262e::3,Got ZNC?,adams.freenode.net
+Hazelesque,lopsa/member/hazelesque,Hazel,verne.freenode.net
+Freeaqingme,nl3.s.kynet.eu,Dolf Schimmel,verne.freenode.net
+batfastad,w-12.cust-21615.ip.static.uno.uk.net,batfastad,wolfe.freenode.net
+iamruinous,gateway/web/irccloud.com/x-osacqstdshkvmedf,Jade Meskill,rajaniemi.freenode.net
+seprob,shell.uw-team.org,Unknown,sinisalo.freenode.net
+MrXXIV,cpe-45-37-177-225.nc.res.rr.com,MrXXIV,rajaniemi.freenode.net
+chlunde,dalvik.ping.uio.no,Carl Henrik Lunde,niven.freenode.net
+EvilWerezombie,nothing4you.w.tf-w.tf,Richard Schwab,niven.freenode.net
+haukebruno,khorne.hateo.de,haukebruno,rajaniemi.freenode.net
+somnium,31.44.232.188,somnium,wilhelm.freenode.net
+demize,archlinux/trusteduser/demize,Johannes Löthberg <johannes@kyriasis.com>,niven.freenode.net
+keen,lopsa/chartermember/keen,david raistrick,verne.freenode.net
+doppo,2604:180::e0fc:a07f,doppo,karatkievich.freenode.net
+tty`,AGrenoble-652-1-425-32.w90-42.abo.wanadoo.fr,Unknown,barjavel.freenode.net
+johnmwilliams__,gateway/web/irccloud.com/x-eetzlurlvyohifuh,John Williams,wolfe.freenode.net
+jpalmer,unaffiliated/jpalmer,Jeff Palmer,asimov.freenode.net
+atomi,71-83-179-177.dhcp.lnbh.ca.charter.com,atomi,verne.freenode.net
+cebreidian,45.63.76.107,Don't Panic,rajaniemi.freenode.net
+dantmnf,unaffiliated/dantmnf,dantmnf,niven.freenode.net
+brad[],TMA-1.brad-x.com,Brad Laue,card.freenode.net
+Teraii,vip-s1-l1.teraii.net,teraii,wolfe.freenode.net
+vr,s1.daycom.net,Herv� Commowick,barjavel.freenode.net
+tittof,unaffiliated/tittof,tittof,kornbluth.freenode.net
+jefferai,kde/mitchell,Jeff Mitchell,barjavel.freenode.net
+ddollar,heroku/staff/pdpc.professional.ddollar,ddollar,karatkievich.freenode.net
+devdood,gateway/web/irccloud.com/x-seaagxyvdpkbmdlh,devdood,wilhelm.freenode.net
+dch,apache/committer/dch,Dave Cottlehuber,leguin.freenode.net
+john51,15255.s.t4vps.eu,John,sinisalo.freenode.net
+STRML,unaffiliated/strml,STRML,orwell.freenode.net
+pirx,h-2-241.a230.priv.bahnhof.se,akol,rajaniemi.freenode.net
+jethro,hoa.autiste.org,uran,asimov.freenode.net
+maxxer,unaffiliated/maxxer,Lorenzo Milesi ~ YetOpen S.r.l.,weber.freenode.net
+sahilsinha,65.19.183.143,Sahil Sinha,barjavel.freenode.net
+janto,tictoc.outernational.org,Instant asshole. Just add alcohol.,tepper.freenode.net
+Hilli-,ping.vin.dk,Jens Hilligsoe,barjavel.freenode.net
+Olipro,uncyclopedia/pdpc.21for7.olipro,Olipro,adams.freenode.net
+atrius,24-179-81-84.dhcp.jcsn.tn.charter.com,atrius,verne.freenode.net
+MasterBob,unaffiliated/masterbob,Ted,asimov.freenode.net
+Furai,furai.pl,Lucas,adams.freenode.net
+soloone,lynx.themachine.dk,SoloOne,sinisalo.freenode.net
+superdump,unaffiliated/superdump,Robert Swain,wolfe.freenode.net
+twisted`,gateway/web/irccloud.com/x-dmeuevvcnrsegdxc,twisted,karatkievich.freenode.net
+BlackDex,ori.vyus.nl,BlackDex,wolfe.freenode.net
+bVector,gateway/web/irccloud.com/x-noszawkocgwtxbys,bV,wilhelm.freenode.net
+rpb,199.68.195.102,realname,rajaniemi.freenode.net
+fredsted,s2.fredsted.me,fredsted,karatkievich.freenode.net
+rnewson,couchdb/committer/rnewson,Robert Newson,karatkievich.freenode.net
+shortdudey123,chunk01.ridderg.com,Grant,barjavel.freenode.net
+lucasrolff,gra1.optimizer.io,Lucas Rolff,card.freenode.net
+ironhalik,voyager.weinert.io,mweinert,niven.freenode.net
+meineerde,deneb.uberspace.de,Holger Just,niven.freenode.net
+Virtual,192.184.93.10,Life is real.,barjavel.freenode.net
+colstrom,gateway/web/irccloud.com/x-cegrkahfyqvhyric,Chris Olstrom,sinisalo.freenode.net
+TillW,eir.supercabi.net,Till,karatkievich.freenode.net
+reuss,87.48.171.162,david,adams.freenode.net
+rsFF,2001:4802:7800:1:be76:4eff:fe21:3f41,Ricardo Ferreira,adams.freenode.net
+mfournier,2001:4b98:dc2:41:216:3eff:fe6d:dc0b,Marc Fournier,leguin.freenode.net
+howitdo,unaffiliated/howitdo,howitdo,sinisalo.freenode.net
+iclebyte,212.9.27.242,realname,wilhelm.freenode.net
+victori,cpe-76-174-185-145.socal.res.rr.com,Victor Igumnov,verne.freenode.net
+cromulon,45.62.255.48,Unknown,adams.freenode.net
+antonw,gateway/web/irccloud.com/x-ufksjgusijgebapa,Anton Winter,karatkievich.freenode.net
+laurent\,unaffiliated/laurent/x-4048133,none,sinisalo.freenode.net
+thefallen,unaffiliated/fallen,Unknown,hitchcock.freenode.net
+atlanticd,hok.duf.hu,Never stop thinking.,rajaniemi.freenode.net
+cscf,2620:101:f000:4805:1e87:2cff:fe77:c395,realname,wolfe.freenode.net
+ponyofdeath,cpe-76-172-86-115.socal.res.rr.com,vladi,orwell.freenode.net
+franks2,unaffiliated/franks2,frank,weber.freenode.net
+bedis,62-210-208-230.rev.poneytelecom.eu,Baptiste Assmann,leguin.freenode.net
+dserodio,unaffiliated/dserodio,Daniel Serodio,wolfe.freenode.net
+phinze,gateway/web/irccloud.com/x-jjgakxgitcbwdkqn,Paul Hinze,adams.freenode.net
+guide_,2001:4d88:1011::234,guide,wolfe.freenode.net
+rideh,2600:3c00::f03c:91ff:fe93:4dd8,rideh,karatkievich.freenode.net
+tvsutton,macops.ca,Tim Sutton,verne.freenode.net
+bret,gateway/web/irccloud.com/x-thzaumlzwpolfmxh,Bret Comnes,leguin.freenode.net
+blackjid,open.source.supporter.firrre.com,blackjid,rajaniemi.freenode.net
+apetresc,znc.apetre.sc,Adrian Petrescu,weber.freenode.net
+renard_,cw-svc0.chezwam.org,Vulpes Velox,barjavel.freenode.net
+bluemaex,gateway/web/irccloud.com/x-mivosqcejvkctqtl,Max,adams.freenode.net
+Guest30798,198.7.57.176,linc01n,wilhelm.freenode.net
+_jungh4ns,static.184.80.201.138.clients.your-server.de,junghans,rajaniemi.freenode.net
+fivetanley,irc.fivetanley.com,Stanley Stuart,card.freenode.net
+Jakra,2001:44b8:610c:5100:ba27:ebff:fe88:42a0,Jakra Pup,wilhelm.freenode.net
+underyx,2a03:b0c0:3:d0::58:7001,Bence Nagy,karatkievich.freenode.net
+radeksimko,gateway/web/irccloud.com/x-vhyiesrsdwlfefri,Radek Simko,wilhelm.freenode.net
+zeller,gateway/web/irccloud.com/x-wsuumilddunoujtv,John Zeller,leguin.freenode.net
+mroth,gateway/web/irccloud.com/x-alodxltctcehabof,Matthew Rothenberg,karatkievich.freenode.net
+PhDuck,static-5-103-131-174.seas-nve.net,Mads,orwell.freenode.net
+andreagus,mail.heisenberg.ovh,andreagus,barjavel.freenode.net
+domme,gateway/web/irccloud.com/x-cikgwrvoedxsnihb,Dominik Schmidt,adams.freenode.net
+aroom,gateway/shell/panicbnc/x-jchbxndgltbwmwys,aroom,wolfe.freenode.net
+onewheelskyward,ec2-52-38-96-208.us-west-2.compute.amazonaws.com,z,karatkievich.freenode.net
+wizonesolutions,drupal.org/user/739994/view,WizOne Solutions,sinisalo.freenode.net
+shansen,me.shansen.me,Shansen,weber.freenode.net
+rhettigan,gateway/web/irccloud.com/x-pzxlguceikpakdzb,Colin Dean,wolfe.freenode.net
+hfp_work,mtrlpq0736w-lp130-03-70-52-83-177.dsl.bell.ca,blip,orwell.freenode.net
+hvaara,buzz.lightyear.no,Roy Hvaara,wolfe.freenode.net
+Fenhl,gateway/web/irccloud.com/x-kwdvrvjmdywelrye,Fenhl,adams.freenode.net
+bogdanteleaga,unaffiliated/bogdanteleaga,Bogdan Teleaga,adams.freenode.net
+frank__,november.openminds.be,Frank,karatkievich.freenode.net
+botqui,c-73-65-39-247.hsd1.mn.comcast.net,cinch,leguin.freenode.net
+Monqui,c-73-65-39-247.hsd1.mn.comcast.net,realname,hitchcock.freenode.net
+eur0pa,93-58-122-31.ip158.fastwebnet.it,https://twitter.com/eur0pa_,wilhelm.freenode.net
+itszn,104.131.213.67,itszn,weber.freenode.net
+aperson,unaffiliated/aperson,ap,asimov.freenode.net
+BLueBLue,5.39.6.194,BLue,wolfe.freenode.net
+simon574,62-178-126-92.cable.dynamic.surfer.at,Simon Parzer,weber.freenode.net
+yaknyasn,gateway/web/irccloud.com/x-npxqdtalghmrqyjg,yaknyasn,wilhelm.freenode.net
+Unknown[NF],2a01:4f8:201:5273::2,unknownnf-freenode,karatkievich.freenode.net
+pcmerc_work,proxy-sf.kryptochaos.com,pcmerc,barjavel.freenode.net
+idmistir,unaffiliated/idmistir,Id mi stir,card.freenode.net
+mr_grep,103.4.17.245,a,adams.freenode.net
+exobuzz,cpc69064-oxfd26-2-0-cust48.4-3.cable.virginm.net,Jools Wills,verne.freenode.net
+Gorkyman_,BSN-77-35-160.static.siol.net,Gorkyman,card.freenode.net
+ryan--,host86-190-242-150.range86-190.btcentralplus.com,Ryan,wolfe.freenode.net
+kriskropd,unaffiliated/kriskropd,kris,card.freenode.net
+josspyker,unaffiliated/josspyker,josspyker,karatkievich.freenode.net
+versedi,unaffiliated/versedi,Got ZNC?,adams.freenode.net
+TitoN,c83-250-44-242.bredband.comhem.se,I dont know,rajaniemi.freenode.net
+StoBrendo,236.ip-149-56-143.net,tux,karatkievich.freenode.net
+mrfrenzy,abydos.syntaxis.se,mrfrenzy,rajaniemi.freenode.net
+rome_390,104.236.113.22,Rome,card.freenode.net
+ChanServ,services.,Channel Services,services.
+chris_vancity,S010650395556660a.vc.shawcable.net,...,sinisalo.freenode.net
+soybean,ns.kirin.se,soybean,wolfe.freenode.net
+jagardaniel,2a01:3b8:1968:fc00::1,daniel,sinisalo.freenode.net
+Cadero,46.16.233.173,Cadero,card.freenode.net
+rich-,unaffiliated/rich-,GOD,asimov.freenode.net
+MrPekka,109.74.2.66,MrPekka,asimov.freenode.net
+fulafisken,granestrand.se,Martin Granestrand,wilhelm.freenode.net
+Cadero_,46.16.233.173,Cadero,card.freenode.net
+lduf,gateway/web/irccloud.com/x-qcrkqdrbvnkzgwhw,L Duf,karatkievich.freenode.net
+norec,locke.misse.org,Markus Hertzen,wolfe.freenode.net
+Kercket,141.0.169.251,Kercket,sinisalo.freenode.net
+Nirtal,orb.xaz.se,Nirtal,hitchcock.freenode.net
+gmcharlt,www.librarypolice.com,Galen Charlton,weber.freenode.net
+kennric,osuosl/staff/kennric,Unknown,wolfe.freenode.net
+patcht,osuosl/staff/patcht,Tristan Patch,karatkievich.freenode.net
+cyrilb,gateway/web/irccloud.com/x-ntwahvfubcfxhoeu,Cyril Bouthors,adams.freenode.net
+tschuy,osuosl/staff/tschuy,tschuye,leguin.freenode.net
+Ramereth,osuosl/staff/ramereth,Lance Albertson,wilhelm.freenode.net
+Druplicon,drupal/bot/druplicon,Druplicon :http://drupal.org/project/bot,asimov.freenode.net
+ChanServ,services.,Channel Services,services.
+shtirlic,ec2-52-28-185-189.eu-central-1.compute.amazonaws.com,Serg Podtynnyi,barjavel.freenode.net
+headius,ec2-54-242-61-125.compute-1.amazonaws.com,Charles Oliver Nutter,wilhelm.freenode.net
+lele,2a01:2d8:42:42:4c82:3337:ed74:b2fa,Lele Forzani,adams.freenode.net
+atom3_,blacklight.fi,atom3,card.freenode.net
+krainboltgreene,gateway/web/irccloud.com/x-gopkdhvyeurgkkkc,Kurtis Rainbolt-Greene,wolfe.freenode.net
+retroj,unaffiliated/retroj,tipjar => 1HobynStMadeJWHAoAZgWCGGAWDqzGKRCi,wilhelm.freenode.net
+lmc,dust.soleus.nu,Luis Motta Campos,rajaniemi.freenode.net
+tbuehlmann,unaffiliated/tovias,Tobias,orwell.freenode.net
+jhass,ruby/staff/jhass,Jonne Haß,weber.freenode.net
+igitoor,unaffiliated/contempt,igitur,rajaniemi.freenode.net
+JSharp,wikia/JSharp,Justin Lynn,adams.freenode.net
+chouhoulis,c-98-217-193-221.hsd1.ma.comcast.net,chouhoulis,karatkievich.freenode.net
+mjc_,gateway/web/irccloud.com/x-wabcvykxrvjlxhen,Michael J. Cohen,adams.freenode.net
+asarih,gateway/web/irccloud.com/x-ozfoxajfdrinzove,Hiro Asari,leguin.freenode.net
+shwoodard_,gateway/web/irccloud.com/x-ipmxkpdutnwianmm,Sam Woodard,adams.freenode.net
+halorgium,ceramic.spork.in,halorgium,wilhelm.freenode.net
+Olipro,uncyclopedia/pdpc.21for7.olipro,Olipro,adams.freenode.net
+dukedave,gateway/web/irccloud.com/x-ardvakcsputpkwvz,Dave Tapley,wolfe.freenode.net
+brixen,208.68.39.152,Brian Shirai,karatkievich.freenode.net
+tabakhase,unaffiliated/tabakhase,Christian Tabakhase Hackmann,karatkievich.freenode.net
+_jungh4ns,static.184.80.201.138.clients.your-server.de,junghans,rajaniemi.freenode.net
+heroux,gateway/shell/insomnia247/x-zxtictulaeupvvxk,heroux,wilhelm.freenode.net
+Paradox,reddit/admins/paradox,herp derp,card.freenode.net
+_whitelogger,uruz.whitequark.org,whitequark's logger bot,wolfe.freenode.net
+cstrahan,gateway/web/irccloud.com/x-gesjtcksgkzzoqvl,Charles Strahan,wolfe.freenode.net
+ckrailo,gateway/web/irccloud.com/x-syoydbaymesoyfyj,Krailo,sinisalo.freenode.net
+sonalkr132,gateway/shell/panicbnc/x-zfaafherkcvuxyvv,sonalkr132,karatkievich.freenode.net
+sunya7a_,unaffiliated/sunya7a,EC2 Default User,orwell.freenode.net
+Cidan,conspiracy/developer/Cidan,cidan,wolfe.freenode.net
+yopp,gw1.yopp.in,yopp,orwell.freenode.net
+thejoecarroll_,dev.sihti.fi,Carroll",niven.freenode.net
+jcp__,gateway/web/irccloud.com/x-yssdervostskwzzu,alex,leguin.freenode.net
+gthank,unaffiliated/gthank,Got ZNC?,verne.freenode.net
+g3funk,192.34.61.224,braden,asimov.freenode.net
+contradictioned,2a01:4f8:c17:263d::30,Manuel Hoffmann,niven.freenode.net
+ntucker,67.207.137.89,Neal Tucker,card.freenode.net
+Anticimex,netforce.millnert.se,Ask...,barjavel.freenode.net

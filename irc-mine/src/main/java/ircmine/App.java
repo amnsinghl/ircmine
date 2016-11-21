@@ -52,7 +52,7 @@ public class App {
                     MainApp app = new MainApp(client);
                     Mine mine = new Mine(app, client);
                     mine._end = aVoid -> {
-//                        client.shutdown();
+                        client.shutdown();
                         pp.execNext();
                     };
                     try {
