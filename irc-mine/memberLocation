@@ -1,20 +1,52 @@
-illumin,success,"United Kingdom",GB,WLS,Wales,Chepstow,,51.6389,-2.69561,Europe/London,BOGONS,BOGONS,"AS3213 BOGONS-ASN",93.186.32.132
-srm`,success,France,FR,J,Île-de-France,Paris,75001,48.8667,2.3333,Europe/Paris,"ONLINE S.A.S.",Iliad-Entreprises,,195.154.251.10
-kfjohnson,success,"United States",US,CA,California,Fremont,94536,37.5483,-121.9886,America/Los_Angeles,Linode,Linode,"AS63949 Linode, LLC",192.155.84.73
-Entil`zha,success,Finland,FI,18,Uusimaa,Helsinki,00300,60.1756,24.9342,Europe/Helsinki,"TelecityGroup Finland Oy","TelecityGroup Finland Oy","AS29154 EQUINIXFI-AS",87.108.45.19
-thunderscore,success,France,FR,J,Île-de-France,Courtomer,77390,48.6529,2.9044,Europe/Paris,"OVH SAS","OVH SAS","AS16276 OVH",91.121.145.164
-Lunar^,success,France,FR,68,Haut-Rhin,Katzenthal,68230,48.108,7.2819,Europe/Paris,LIAZO,LIAZO,"AS50618 LIAZO",195.88.84.135
-crazy_im1,success,Germany,DE,NI,"Lower Saxony",Pattensen,30982,52.2619,9.7663,Europe/Berlin,"htp GmbH","htp GmbH","AS13045 HTP-AS",89.182.85.235
-hmsimha,success,Canada,CA,BC,"British Columbia",Vancouver,V6C,49.2869,-123.1177,America/Vancouver,"WesTel Telecommunications","WesTel Telecommunications","AS5071 WesTel Telecommunications",204.244.11.130
-madonius,success,Germany,DE,,Baden-Württemberg,"Karlsruhe (Nordweststadt)",,49.029,8.35695,Europe/Berlin,"netcup GmbH","netcup GmbH","AS197540 NETCUP-AS",46.38.243.236
-treamous,success,"United States",US,TN,Tennessee,Franklin,37064,35.9024,-86.9595,America/Chicago,"AT&T U-verse","AT&T U-verse","AS7018 AT&T Services, Inc.",99.0.33.186
-farhaven,success,Russia,RU,SPE,St.-Petersburg,"Saint Petersburg",,59.9343,30.3351,Europe/Moscow,"OOO Fishnet Communications","vstoike.com data-center","AS43317 FISHNET-AS",94.242.59.125
-archheretic,success,Norway,NO,10,"Vest-Agder Fylke",Kristiansand,4629,58.1491,7.9727,Europe/Oslo,"Get AS","Get AS Customers","AS41164 GET Norway",84.213.201.103
-adriaan,success,Netherlands,NL,ZE,"Provincie Zeeland",Middelburg,,51.4978,3.61655,Europe/Amsterdam,"PCextreme B.V.","PCextreme B.V.","AS48635 PCEXTREME",185.66.250.157
-Cetusx,success,"United States",US,IL,Illinois,"Buffalo Grove",60089,42.1695,-87.9588,America/Chicago,"Comcast Cable","Comcast Cable","AS7922 Comcast Cable Communications, LLC",73.210.161.213
-wtnabe,success,Japan,JP,27,Ōsaka,Osaka,540-0008,34.6864,135.52,Asia/Tokyo,"SAKURA Internet","SAKURA Internet","AS9371 SAKURA Internet Inc.",49.212.140.72
-razielle_tzu,success,"United Kingdom",GB,ENG,England,Leeds,LS4,53.8,-1.5833,Europe/London,BT,BT,"AS2856 BTnet UK Regional network",86.147.44.207
-Macaba,success,"United Kingdom",GB,ENG,England,London,EC4N,51.5142,-0.0931,Europe/London,"Linode, LLC","Linode, LLC","AS63949 Linode, LLC",2a01:7e00::f03c:91ff:fe50:b330
-gambatte,success,France,FR,J,Île-de-France,Paris,75001,48.8667,2.3333,Europe/Paris,"OVH SAS","OVH SAS","AS16276 OVH",92.222.41.125
-lordcirth,success,Canada,CA,ON,Ontario,Toronto,M4Y,43.6656,-79.383,America/Toronto,"TekSavvy Solutions","TekSavvy Solutions","AS5645 TekSavvy Solutions, Inc.",45.72.237.238
-kralor,success,Luxembourg,LU,,"Canton de Luxembourg","Luxemburg City",,49.6257,6.16055,Europe/Luxembourg,"root SA","root SA","AS5577 ROOT",212.117.183.168
+illumin,GB,WLS,United Kingdom,Wales,Chepstow,51.6389,-2.69561,
+srm`,FR,J,France,Île-de-France,Paris,48.8667,2.3333,75001
+kfjohnson,US,CA,United States,California,Fremont,37.5483,-121.9886,94536
+Entil`zha,FI,18,Finland,Uusimaa,Helsinki,60.1756,24.9342,00300
+thunderscore,FR,J,France,Île-de-France,Courtomer,48.6529,2.9044,77390
+Lunar^,FR,68,France,Haut-Rhin,Katzenthal,48.108,7.2819,68230
+crazy_im1,DE,NI,Germany,Lower Saxony,Pattensen,52.2619,9.7663,30982
+hmsimha,CA,BC,Canada,British Columbia,Vancouver,49.2869,-123.1177,V6C
+madonius,DE,,Germany,Baden-Württemberg,Karlsruhe (Nordweststadt),49.029,8.35695,
+treamous,US,TN,United States,Tennessee,Franklin,35.9024,-86.9595,37064
+farhaven,RU,SPE,Russia,St.-Petersburg,Saint Petersburg,59.9343,30.3351,
+archheretic,NO,10,Norway,Vest-Agder Fylke,Kristiansand,58.1491,7.9727,4629
+adriaan,NL,ZE,Netherlands,Provincie Zeeland,Middelburg,51.4978,3.61655,
+Cetusx,US,IL,United States,Illinois,Buffalo Grove,42.1695,-87.9588,60089
+wtnabe,JP,27,Japan,Ōsaka,Osaka,34.6864,135.52,540-0008
+razielle_tzu,GB,ENG,United Kingdom,England,Leeds,53.8,-1.5833,LS4
+gambatte,FR,J,France,Île-de-France,Paris,48.8667,2.3333,75001
+lordcirth,CA,ON,Canada,Ontario,Toronto,43.6656,-79.383,M4Y
+kralor,LU,,Luxembourg,Canton de Luxembourg,Luxemburg City,49.6257,6.16055,
+Mr_Bond,NO,03,Norway,Oslo County,Oslo,59.9167,10.75,0001
+nweiderm,US,TX,United States,Texas,Dallas,32.7825,-96.8207,75207
+JeriCurl,CA,AB,Canada,Alberta,Calgary,51.0486,-114.071,
+downtide,DE,NW,Germany,North Rhine-Westphalia,Dusseldorf,51.1668,6.8253,40589
+qknight,DE,BY,Germany,Bavaria,Nuremberg,49.452,11.0767,
+elmsy,DE,NI,Germany,Lower Saxony,Hanover,52.3667,9.7167,30627
+jmp0x2a,DE,HE,Germany,Hesse,Frankfurt am Main,50.1167,8.6833,60438
+Zanix,US,ID,United States,Idaho,Harrison,47.5456,-116.7062,83833
+AriT93,US,CA,United States,California,Pleasanton,37.6624,-121.8747,94566
+timar,HU,BU,Hungary,Budapest,Budapest,47.5,19.0833,1012
+zlaing,CA,ON,Canada,Ontario,Waterloo,43.4715,-80.5454,N2L
+staircase,GB,ENG,United Kingdom,England,Durham,54.7667,-1.5667,DH1
+jxtx,US,TX,United States,Texas,San Antonio,29.4889,-98.3987,78218
+a,FR,J,France,Île-de-France,Paris,48.8667,2.3333,75001
+azertyfun-FrOSt,FR,O,France,Nord-Pas-de-Calais,Roubaix,50.6932,3.19955,
+XanthiX,CZ,PR,Czech Republic,Hlavni mesto Praha,Prague,50.0833,14.4667,130 00
+pig-monkey,NL,,Netherlands,North Holland,Amsterdam (Amsterdam-Oost),52.3329,4.91953,
+AxLcorp,FR,J,France,Île-de-France,Boulogne-Billancourt,48.8333,2.25,92100
+deztructor,NL,NH,Netherlands,North Holland,Amsterdam,52.35,4.9167,1091
+Pathore,US,TX,United States,Texas,Abilene,32.3389,-99.6607,79602
+alfabit,IL,,Israel,Central District,Petah Tikva,32.084,34.8878,
+^sss334_Mn,US,,United States,California,Los Angeles (Downtown),34.0513,-118.257,
+information,BG,22,Bulgaria,Sofia-Capital,Sofia,42.6833,23.3167,1000
+voldern,DE,HE,Germany,Hesse,Frankfurt am Main,50.1167,8.6833,60438
+adriah,DE,HE,Germany,Hesse,Frankfurt am Main,50.1167,8.6833,60438
+Xanthia,US,CA,United States,California,Santa Clara,37.3961,-121.9617,95054
+czakey,PL,,Poland,Masovian Voivodeship,Warsaw (Praga-Południe),52.2388,21.1125,
+Peruna,FI,18,Finland,Uusimaa,Helsinki,60.1756,24.9342,00300
+rru04,PL,MA,Poland,Lesser Poland Voivodeship,Widnica,50.3983,20.0315,58-100
+diggernet,US,CA,United States,California,Fairfield,38.2494,-122.04,94533
+libavbug,IT,21,Italy,Piedmont,Turin,45.0705,7.6868,10123
+Octy_,RU,SMO,Russia,Smolenskaya Oblast',Smolensk,54.7811,32.0489,
+moggi,DE,HE,Germany,Hesse,Asslar,50.6,8.4667,35614

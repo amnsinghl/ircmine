@@ -2,9 +2,6 @@ package ircmine;
 
 import java.util.function.Consumer;
 
-/**
- * Created by aman on 16/11/16.
- */
 public class Command {
     private final Consumer<String> _consumer;
     private final Consumer<Void> _onEnd;
