@@ -14,12 +14,16 @@ public class Location {
         BufferedReader memberData = FileHelper.getFileR("memberDataUnique");
         int i=0;
         for (String line = memberData.readLine(); line != null; line = memberData.readLine()) {
-            rateLimiter.acquire();
             System.out.println("processing " + i++);
             String[] split = line.split(",");
             String member = split[0];
             String location = split[1];
             String json = null;
+
+            if(location.contains("/") || location.contains("\\"))
+                continue;
+
+            rateLimiter.acquire();
             try {
                 json = UrlHelper.getHTML("http://ip-api.com/csv/" + location);
             } catch (Exception e) {
