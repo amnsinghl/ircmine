@@ -15,14 +15,18 @@ import java.util.concurrent.ConcurrentLinkedDeque;
 public class App {
 
     ConcurrentLinkedDeque<Thread> threads = new ConcurrentLinkedDeque<>();
+    boolean flag = false;
 
     public synchronized void execNext() {
         System.out.println("executing ");
-        try {
-            Thread.sleep(0000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+        if (flag) {
+            try {
+                Thread.sleep(60000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
+        flag = true;
         System.out.println("==================== execution " + threads.size() + "===================================");
         Thread pop = threads.pop();
         pop.start();
@@ -33,12 +37,11 @@ public class App {
         mineUserData();
     }
 
-    private static Client getClient()
-    {
+    private static Client getClient() {
         String nick = generateName();
         //        Client client = Client.builder().nick(nick).serverHost("irc.us.ircnet.net").serverPort(6667).secure(false).build();
-//        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
-        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
+        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
+//        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
         return client;
     }
 
@@ -89,7 +92,7 @@ public class App {
                         e.printStackTrace();
                     }
                 });
-                if(counter >= 0 && counter <= 10000) {
+                if (counter >= 0 && counter <= 10000) {
                     pp.threads.add(thread);
                 }
             }
@@ -97,7 +100,7 @@ public class App {
             channels.add(split[0]);
             line = br.readLine();
         }
-        for(int ix =0;ix<20;ix++) {
+        for (int ix = 0; ix < 3; ix++) {
             pp.execNext();
         }
     }
@@ -109,7 +112,7 @@ public class App {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        System.out.println("str  " +s);
+        System.out.println("str  " + s);
         JSONObject obj = new JSONObject(s);
         JSONObject name = obj.getJSONArray("results").getJSONObject(0).getJSONObject("name");
         String nam = name.getString("first") + name.getString("last");
