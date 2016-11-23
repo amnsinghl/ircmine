@@ -34,7 +34,7 @@ public class Command {
     }
 
     public boolean isEndString(String s) {
-        return s.contains("End of /" + _commandName);
+        return s.contains("End of " + _commandName);
     }
 
     String getCommand() {

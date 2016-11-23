@@ -15,7 +15,7 @@ public class Commands {
 
         @Override
         public boolean isEndString(String s) {
-            return s.contains(_channelName + " :End of /WHO") || s.contains(_channelName + ":Cannot join channel");
+            return s.contains(_channelName + " :End of WHO") || s.contains(_channelName + ":Cannot join channel");
         }
     }
 
@@ -29,7 +29,7 @@ public class Commands {
 
         @Override
         public boolean isEndString(String s) {
-            return s.contains(_channelName + " :End of /WHO");
+            return s.contains(_channelName + " :End of WHO");
         }
     }
 }

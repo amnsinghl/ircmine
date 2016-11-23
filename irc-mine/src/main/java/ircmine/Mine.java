@@ -48,11 +48,11 @@ public class Mine {
         _app.isReady = aVoid -> {
             new Thread(() -> {
                 for (int j = 0; j < channels.size(); j++) {
-                    try {
-                        Thread.sleep(random.nextInt(10000));
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+//                    try {
+//                        Thread.sleep(random.nextInt(10000));
+//                    } catch (InterruptedException e) {
+//                        e.printStackTrace();
+//                    }
                     System.out.println("processing channel " + count + "  " + j);
                     String ch = channels.get(j);
                     _app.executeWait(new Commands.JoinCommand(ch, null, bVoid -> {

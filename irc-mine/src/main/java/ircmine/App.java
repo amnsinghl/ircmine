@@ -21,7 +21,7 @@ public class App {
         System.out.println("executing ");
         if (flag) {
             try {
-                Thread.sleep(60000);
+                Thread.sleep(30000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -38,9 +38,10 @@ public class App {
     }
 
     private static Client getClient() {
+        JSONObject name = getRealName();
         String nick = generateName();
-        //        Client client = Client.builder().nick(nick).serverHost("irc.us.ircnet.net").serverPort(6667).secure(false).build();
-        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
+                Client client = Client.builder().nick(nick).realName(name.getString("first")).serverHost("eris.us.ircnet.net").serverPort(6667).secure(false).build();
+//        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
         return client;
     }
@@ -72,6 +73,7 @@ public class App {
         while (line != null) {
             if (channels.size() == 50) {
                 counter++;
+                System.out.println("dd "+ counter);
                 final Integer cnt = counter;
                 List<String> lt = new ArrayList<>(channels);
                 channels.clear();
@@ -97,7 +99,8 @@ public class App {
                 }
             }
             String[] split = line.split(",");
-            channels.add(split[0]);
+            if(Integer.parseInt(split[1]) > 1)
+                channels.add(split[0]);
             line = br.readLine();
         }
         for (int ix = 0; ix < 3; ix++) {
@@ -106,6 +109,12 @@ public class App {
     }
 
     public static String generateName() {
+        JSONObject name = getRealName();
+        String nam = name.getString("first") + name.getString("last");
+        return nam.replaceAll("[^a-zA-Z]", "");
+    }
+
+    private static JSONObject getRealName() {
         String s = null;
         try {
             s = getHTML("https://randomuser.me/api/");
@@ -114,9 +123,7 @@ public class App {
         }
         System.out.println("str  " + s);
         JSONObject obj = new JSONObject(s);
-        JSONObject name = obj.getJSONArray("results").getJSONObject(0).getJSONObject("name");
-        String nam = name.getString("first") + name.getString("last");
-        return nam.replaceAll("[^a-zA-Z]", "");
+        return obj.getJSONArray("results").getJSONObject(0).getJSONObject("name");
     }
 
     public static String getHTML(String urlToRead) throws Exception {
