@@ -38,9 +38,9 @@ public class App {
     }
 
     private static Client getClient() {
-        JSONObject name = getRealName();
+       // JSONObject name = getRealName();
         String nick = generateName();
-                Client client = Client.builder().nick(nick).realName(name.getString("first")).serverHost("eris.us.ircnet.net").serverPort(6667).secure(false).build();
+                Client client = Client.builder().nick(nick).serverHost("eris.us.ircnet.net").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
         return client;
@@ -108,7 +108,7 @@ public class App {
                 e.printStackTrace();
             }
         });
-        if (counter >= 32 && counter <= 10000) {
+        if (counter >= 86 && counter <= 10000) {
             pp.threads.add(thread);
         }
     }
