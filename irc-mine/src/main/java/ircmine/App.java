@@ -41,7 +41,7 @@ public class App {
 //        JSONObject name = getRealName();
         String nick = generateName();
 //                Client client = Client.builder().nick(nick).realName(name.getString("first")).serverHost("eris.us.ircnet.net").serverPort(6667).secure(false).build();
-        Client client = Client.builder().nick(nick).serverHost("irc.efnet.org").serverPort(6667).secure(false).build();
+        Client client = Client.builder().nick(nick).serverHost("irc.rizon.net").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
         return client;
     }
@@ -76,12 +76,12 @@ public class App {
                 schedule(channels, rand, pp, counter);
             }
             String[] split = line.split(",");
-            if(Integer.parseInt(split[1]) > 1)
+            if(Integer.parseInt(split[1]) > 0)
                 channels.add(split[0]);
             line = br.readLine();
         }
         schedule(channels, rand, pp, counter);
-        for (int ix = 0; ix < 3; ix++) {
+        for (int ix = 0; ix < 20; ix++) {
             pp.execNext();
         }
     }
