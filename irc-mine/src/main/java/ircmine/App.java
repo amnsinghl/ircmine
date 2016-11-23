@@ -71,40 +71,45 @@ public class App {
         String line = br.readLine();
         int counter = 0;
         while (line != null) {
-            if (channels.size() == 50) {
+            if (channels.size() == 30) {
                 counter++;
-                System.out.println("dd "+ counter);
-                final Integer cnt = counter;
-                List<String> lt = new ArrayList<>(channels);
-                channels.clear();
-                Thread thread = new Thread(() -> {
-                    int random = rand.nextInt(lt.size());
-//                    String nick = lt.get(random).replaceAll("[^a-zA-Z]", "");
-                    String nick = generateName();
-                    Client client = getClient();
-                    MainApp app = new MainApp(client);
-                    Mine mine = new Mine(app, client);
-                    mine._end = aVoid -> {
-                        client.shutdown();
-                        pp.execNext();
-                    };
-                    try {
-                        mine.mine(lt, cnt);
-                    } catch (IOException | InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                });
-                if (counter >= 0 && counter <= 10000) {
-                    pp.threads.add(thread);
-                }
+                schedule(channels, rand, pp, counter);
             }
             String[] split = line.split(",");
             if(Integer.parseInt(split[1]) > 1)
                 channels.add(split[0]);
             line = br.readLine();
         }
+        schedule(channels, rand, pp, counter);
         for (int ix = 0; ix < 3; ix++) {
             pp.execNext();
+        }
+    }
+
+    private static void schedule(List<String> channels, Random rand, App pp, int counter) {
+        System.out.println("dd "+ counter);
+        final Integer cnt = counter;
+        List<String> lt = new ArrayList<>(channels);
+        channels.clear();
+        Thread thread = new Thread(() -> {
+            int random = rand.nextInt(lt.size());
+//                    String nick = lt.get(random).replaceAll("[^a-zA-Z]", "");
+            String nick = generateName();
+            Client client = getClient();
+            MainApp app = new MainApp(client);
+            Mine mine = new Mine(app, client);
+            mine._end = aVoid -> {
+                client.shutdown();
+                pp.execNext();
+            };
+            try {
+                mine.mine(lt, cnt);
+            } catch (IOException | InterruptedException e) {
+                e.printStackTrace();
+            }
+        });
+        if (counter >= 0 && counter <= 10000) {
+            pp.threads.add(thread);
         }
     }
 
