@@ -21,7 +21,7 @@ public class App {
         System.out.println("executing ");
         if (flag) {
             try {
-                Thread.sleep(10000);
+                Thread.sleep(30000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -41,7 +41,7 @@ public class App {
 //        JSONObject name = getRealName();
         String nick = generateName();
 //                Client client = Client.builder().nick(nick).realName(name.getString("first")).serverHost("eris.us.ircnet.net").serverPort(6667).secure(false).build();
-        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
+        Client client = Client.builder().nick(nick).serverHost("irc.efnet.org").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
         return client;
     }
@@ -76,7 +76,7 @@ public class App {
                 schedule(channels, rand, pp, counter);
             }
             String[] split = line.split(",");
-            if(Integer.parseInt(split[1]) > 0)
+            if(Integer.parseInt(split[1]) > 1)
                 channels.add(split[0]);
             line = br.readLine();
         }
