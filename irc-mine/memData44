@@ -1,34 +1,73 @@
-cz^thc,port-92-201-111-124.dynamic.qsc.de,3 276D Count,*.DE
-krisse7,dsl-hkibrasgw3-58c15a-226.dhcp.inet.fi,3 246K Kristian Laakkonen,*.fi
-vartan,lagoon.freebsd.lublin.pl,4 616P vartan,*.pl
-sambu2,a91-156-211-196.elisa-laajakaista.fi,3 0PNS ...,*.se
-lauhanen,5.101.98.13,3 528G Rauli Lauhanen OH3HSU,*.nl
-Urpo2,static.36.223.47.78.clients.your-server.de,6 276N /msg LamestBot hello,*.DE
-Minki,quimby.meetandspeak.com,3 0PNZ Minki (MAS v2.0),*.nl
-Albertti,st-cn0001.oulu.fi,3 246C Aleksi Kestila,*.fi
-luvlee_,quimby.meetandspeak.com,3 0PNZ Andreas melcom Urban (MAS v2.0),*.nl
-luvlee,quimby.meetandspeak.com,3 0PNZ Andreas melcom Urban (MAS v2.0),*.nl
-Albertti,st-cn0001.oulu.fi,3 246C Aleksi Kestila,*.fi
-niggoo,dsl-hkibrasgw5-50dcef-142.dhcp.inet.fi,3 246K niggoo,*.fi
-ij,vserv.windfluechter.net,3 276D Ingo Juergensmann,*.DE
-Romualdo,graefenhainweb.de,5 276B mithandrir,*.DE
-Roker,shell.spamt.net,4 276S Lars H. Rohwedder,*.DE
-gypsephi,gna.informatik.tu-cottbus.de,5 276E purple,*.DE
-gypsephi,gna.informatik.tu-cottbus.de,5 276E purple,*.DE
-Triskel,ircaddict.org,3 0PNA No Name,irc.atw-inter.net
-Pours,2a01:e34:edf7:df70:a800:4ff:fe00:a04,3 0PNA Laurent Chemla,irc.atw-inter.net
-opo_,palvelin.club,2 0PNN Kalle Reinikka,irc.nlnog.net
-opo,taimen.sr2.fi,3 246G Kalle Reinikka,*.fi
-Benizakura,dsl-tkubrasgw2-50ddd1-127.dhcp.inet.fi,0 0PNE ...,eris.us.ircnet.net
-KuisheidsGordel,d5152dab1.static.telenet.be,3 528G hello,*.nl
-urpa,annatko.pistaa.kakkoseen.typy.biz,3 246K urbotti,*.fi
-yuma,p4217-ipbf1305akatuka.ibaraki.ocn.ne.jp,4 392L chocoauser,*.jp
-MAKOPi,nttcgi106003.tcgi.nt.ngn.ppp.infoweb.ne.jp,4 392L MAKOPi,*.jp
-TriKuiva,zoo.za.net,3 246K Tuomas Tonteri,*.fi
-Laamanni,yks.io,3 528G V Lehtinen,*.nl
-Laamanni,yks.io,3 528G V Lehtinen,*.nl
-veezay,dsl-kvlbrasgw2-50dcd4-34.dhcp.inet.fi,3 246K Ville Jaakkola,*.fi
-veezay,dsl-kvlbrasgw2-50dcd4-34.dhcp.inet.fi,3 246K Ville Jaakkola,*.fi
-veezay,dsl-kvlbrasgw2-50dcd4-34.dhcp.inet.fi,3 246K Ville Jaakkola,*.fi
-veezay,dsl-kvlbrasgw2-50dcd4-34.dhcp.inet.fi,3 246K Ville Jaakkola,*.fi
-oku,dsl-kvlbrasgw2-50df18-68.dhcp.inet.fi,3 246F Olli Haapam?ki,*.fi
+hyyppa,shell.pox.fi,3 246G V?h?kangas,*.fi
+fiz,shell.pox.fi,3 246G Ruohonen,*.fi
+tumakela,kapsi.fi,3 246G Tuomas M?kel?,*.fi
+attley,deeks.far.fi,3 246G attley,*.fi
+Ereinion,nikita.tnnet.fi,3 246K Yugang Zhou,*.fi
+iigLe,nikita.tnnet.fi,3 246K iigle,*.fi
+Chillin1,87-92-104-93.bb.dnainternet.fi,3 2467 Squid,*.fi
+McHcThc,kompassi.com,3 2467 Black Panther,*.fi
+BloodRage,kapsi.fi,3 246G BloodRage,*.fi
+Kumiokru,blacklight.fi,3 246G User Kumiokru,*.fi
+plastik,ki.8b.fi,3 246G s?s,*.fi
+liimo,leviathan.fi,3 246G Petteri Liimatainen,*.fi
+NoGood,dsl-jklbrasgw1-54fb02-54.dhcp.inet.fi,3 246K NoGood,*.fi
+ville8],spinni.org,3 246G juuh,*.fi
+pasipa,trillian.oikosulku.net,3 246G Pasi Partanen,*.fi
+kaik,marvin.oikosulku.net,3 246G Kai Koivisto,*.fi
+Jiwa,marvin.oikosulku.net,3 246G Anna Nikkil?,*.fi
+Jiwanna,trillian.oikosulku.net,3 246G Anna Nikkil?,*.fi
+Wowi,baburuboburu.hyperkuutio.fi,3 246G Riku Palom?ki,*.fi
+loop_,baburuboburu.hyperkuutio.fi,3 246G Aki Reijonen,*.fi
+Caddie,pro.golfarit.net,3 246G Golfarit.net Caddie,*.fi
+TinCup,tincup.fi,3 246G Mikko Laakkonen,*.fi
+pokkeri,87-100-150-85.bb.dnainternet.fi,2 2469 pokkeri,*.fi
+Sandcrab,sccm-155f01af5c76e2c0e4fcf41db83364e1.pool.sonera.fi,3 246K Kari Rantam?ki,*.fi
+terror,shell.pox.fi,3 246G terror worldwide,*.fi
+teme,modem56k.pox.fi,3 246G teme,*.fi
+hyyppa,shell.pox.fi,3 246G V?h?kangas,*.fi
+Jari,e.pox.fi,3 246G sonicc,*.fi
+Osgard,xen.ihme.org,3 246K Oskari Tallgren,*.fi
+L4ri,kapsi.fi,3 246G L-PK,*.fi
+hiippariX,kapsi.fi,3 246G aksu,*.fi
+Hiippari,xob.kapsi.fi,3 246G aksu,*.fi
+samuk,kapsi.fi,3 246G Sauli Kotisaari,*.fi
+silu,kapsi.fi,3 246G Antti P?ll?,*.fi
+halides,5a.fi,3 246G Pekka O. Korolainen,*.fi
+risro_,82-181-49-245.bb.dnainternet.fi,2 2469 Unknown,*.fi
+polac,kapsi.fi,3 246G Mika Impola,*.fi
+vippeli,kraa.fi,3 246G Unknown,*.fi
+kpn43,kos.su,3 2467 kpn,*.fi
+kpn,munaa.com,3 246G Perttu Laine,*.fi
+EKK,melkki.cs.helsinki.fi,3 246G Kalle Viiri,*.fi
+kenkku,kapsi.fi,3 246G Tero Kein?nen,*.fi
+EKK__,melkinpaasi.cs.helsinki.fi,3 246G Kalle Viiri,*.fi
+attedO,shell.jkry.org,3 246G Heidi Wikman,*.fi
+Odetta,kapsi.fi,3 246G Heidi Wikman,*.fi
+akheron,cable-tku-50de2b-100.dhcp.inet.fi,3 246K Petri Lehtinen,*.fi
+BTK,dsl-trebrasgw1-58c1f0-178.dhcp.inet.fi,3 246K Pasi Luostarinen,*.fi
+kaba2,kraa.fi,3 246G kaba,*.fi
+IsoH,halava.cc.jyu.fi,3 2468 Pekka Hotokka,*.fi
+fizu,kapsi.fi,3 246G Jere Moilanen,*.fi
+Maakuth,lowfidelity.org,3 246K Markus Vuorio,*.fi
+Wizzu,gate.techmage.net,3 246G Mikko H?nninen,*.fi
+zarr,kapsi.fi,3 246G Arto Sepp?,*.fi
+Vasara,banhammer.net,3 246G Banhammer-valtuutettu,*.fi
+Pettis,banhammer.net,3 246G Juha Pet?j?j?rvi,*.fi
+Pettis-,cable-roi-50ddfa-174.dhcp.inet.fi,3 246K Juha Pet?j?j?rvi,*.fi
+palikka,kapsi.fi,3 246G Mikko Lahola,*.fi
+leadnose,rikki.fi,3 246G Janne Ronkonen,*.fi
+Utworn,halava.cc.jyu.fi,3 2468 Joakim Linja,*.fi
+Logio,kapsi.fi,3 246G Matti Eskelinen,*.fi
+IiroS,hilla.kapsi.fi,3 246G Iiro Sundberg,*.fi
+hmies,solitudo.net,3 246G hmies,*.fi
+Kavu,xen.ihme.org,3 246K Jukka Kuva,*.fi
+rayenn,host-109-204-201-83.tp-fne.tampereenpuhelin.net,3 2468 olli,*.fi
+rale,karhu.org,3 246G Unknown,*.fi
+jutee,kapsi.fi,3 246G Jussi Viljamaa,*.fi
+alhvin,shell.pox.fi,3 246G Lassila,*.fi
+Vasara,banhammer.net,3 246G Banhammer-valtuutettu,*.fi
+Pettis,banhammer.net,3 246G Juha Pet?j?j?rvi,*.fi
+juk,hear.fi,3 246K Jukka Koskinen,*.fi
+Archmage,potato.fi,3 246G archmage,*.fi
+Tremmor,37-136-73-253.rev.dnainternet.fi,0 0PNE ...,eris.us.ircnet.net
+jamesi,kapsi.fi,3 246G Jari Siitonen,*.fi
