@@ -108,7 +108,7 @@ public class App {
                 e.printStackTrace();
             }
         });
-        if (counter >= 219 && counter <= 10000) {
+        if (counter >= 540 && counter <= 10000) {
             pp.threads.add(thread);
         }
     }
