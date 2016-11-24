@@ -19,13 +19,13 @@ public class App {
 
     public synchronized void execNext() {
         System.out.println("executing ");
-        if (flag) {
-            try {
-                Thread.sleep(30000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
+//        if (flag) {
+//            try {
+//                Thread.sleep(30000);
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
+//        }
         flag = true;
         System.out.println("==================== execution " + threads.size() + "===================================");
         Thread pop = threads.pop();
@@ -42,7 +42,7 @@ public class App {
         String nick = generateName();
         System.out.println("using nick name "  + nick);
 //                Client client = Client.builder().nick(nick).realName(name.getString("first")).serverHost("eris.us.ircnet.net").serverPort(6667).secure(false).build();
-        Client client = Client.builder().nick(nick).serverHost("eu.undernet.org").serverPort(6667).secure(false).build();
+        Client client = Client.builder().nick(nick).serverHost("irc.undernet.org").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
         return client;
     }
@@ -77,12 +77,12 @@ public class App {
                 schedule(channels, rand, pp, counter);
             }
             String[] split = line.split(",");
-            if(Integer.parseInt(split[1]) > 0)
+            if(Integer.parseInt(split[1]) > 2)
                 channels.add(split[0]);
             line = br.readLine();
         }
         schedule(channels, rand, pp, counter);
-        for (int ix = 0; ix < 10; ix++) {
+        for (int ix = 0; ix < 1; ix++) {
             pp.execNext();
         }
     }
