@@ -9,7 +9,7 @@ public class Reduce {
     public static void main(String[] args) throws IOException {
         BufferedWriter channelMembers = getFile("channelMembers");
         BufferedWriter memberData = getFile("memberData");
-        for(int i=1;i<=156;i++) {
+        for(int i=1;i<=541;i++) {
             System.out.println("processing " + i);
             BufferedReader br = new BufferedReader(new FileReader("chmem" + i));
             String line = br.readLine();
