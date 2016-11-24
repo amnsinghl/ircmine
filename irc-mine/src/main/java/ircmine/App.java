@@ -76,12 +76,12 @@ public class App {
                 schedule(channels, rand, pp, counter);
             }
             String[] split = line.split(",");
-            if(Integer.parseInt(split[1]) > 0)
+            if(Integer.parseInt(split[1]) > 1)
                 channels.add(split[0]);
             line = br.readLine();
         }
         schedule(channels, rand, pp, counter);
-        for (int ix = 0; ix < 20; ix++) {
+        for (int ix = 0; ix < 5; ix++) {
             pp.execNext();
         }
     }
