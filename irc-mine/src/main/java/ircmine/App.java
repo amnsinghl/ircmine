@@ -71,12 +71,12 @@ public class App {
         String line = br.readLine();
         int counter = 0;
         while (line != null) {
-            if (channels.size() == 30) {
+            if (channels.size() == 20) {
                 counter++;
                 schedule(channels, rand, pp, counter);
             }
             String[] split = line.split(",");
-            if(Integer.parseInt(split[1]) > 0)
+            if(Integer.parseInt(split[1]) > 1)
                 channels.add(split[0]);
             line = br.readLine();
         }
@@ -108,7 +108,7 @@ public class App {
                 e.printStackTrace();
             }
         });
-        if (counter >= 0 && counter <= 10000) {
+        if (counter >= 219 && counter <= 10000) {
             pp.threads.add(thread);
         }
     }
