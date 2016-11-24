@@ -40,6 +40,7 @@ public class App {
     private static Client getClient() {
        // JSONObject name = getRealName();
         String nick = generateName();
+	System.out.println("nickname " + nick);
                 Client client = Client.builder().nick(nick).serverHost("eris.us.ircnet.net").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("irc.quakenet.org").serverPort(6667).secure(false).build();
 //        Client client = Client.builder().nick(nick).serverHost("2a01:60:45:1000::304").serverPort(6667).secure(false).build();
@@ -108,7 +109,7 @@ public class App {
                 e.printStackTrace();
             }
         });
-        if (counter >= 128 && counter <= 10000) {
+        if (counter >= 158 && counter <= 10000) {
             pp.threads.add(thread);
         }
     }
