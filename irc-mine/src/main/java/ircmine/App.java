@@ -76,12 +76,12 @@ public class App {
                 schedule(channels, rand, pp, counter);
             }
             String[] split = line.split(",");
-            if(Integer.parseInt(split[1]) > 1)
+            if(Integer.parseInt(split[1]) == 1)
                 channels.add(split[0]);
             line = br.readLine();
         }
         schedule(channels, rand, pp, counter);
-        for (int ix = 0; ix < 5; ix++) {
+        for (int ix = 0; ix < 2; ix++) {
             pp.execNext();
         }
     }
@@ -108,7 +108,7 @@ public class App {
                 e.printStackTrace();
             }
         });
-        if (counter >= 244 && counter <= 10000) {
+        if (counter >= 50 && counter <= 10000) {
             pp.threads.add(thread);
         }
     }

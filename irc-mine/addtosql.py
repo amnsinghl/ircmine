@@ -45,7 +45,7 @@ prefix = "rizon"
 with open("channels") as f:
     limit = 3
     tablename = "channels"
-    extract(limit, tablename, prefix)
+#    extract(limit, tablename, prefix)
 db.commit()
 print "done"
 
